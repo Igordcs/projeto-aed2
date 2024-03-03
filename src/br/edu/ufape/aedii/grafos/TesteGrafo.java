@@ -14,6 +14,8 @@ public class TesteGrafo {
 		g.adicionarAresta("A", "D");
 		g.adicionarAresta("D", "B");
 		
+		g.imprimir();
+		
 		BuscaLargura b = new BuscaLargura(g);
 		b.execute("D");
 		
