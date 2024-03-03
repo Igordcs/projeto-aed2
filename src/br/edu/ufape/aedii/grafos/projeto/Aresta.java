@@ -10,4 +10,16 @@ public class Aresta {
         this.peso = peso;
         this.destino = destino;
     }
+
+    public Vertice getOrigem() {
+        return this.origem;
+    }
+
+    public Vertice getDestino() {
+        return this.destino;
+    }
+
+    public int getPeso() {
+        return this.peso;
+    }
 }
