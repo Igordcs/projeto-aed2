@@ -1,12 +1,7 @@
 package br.edu.ufape.aedii.grafos.projeto;
 
-import java.io.FileReader;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Scanner;
 
 public class GrafoPonderado {
@@ -16,20 +11,19 @@ public class GrafoPonderado {
 	public GrafoPonderado() {
 		vertices = new ArrayList<Vertice>();
 		arestas = new ArrayList<Aresta>();
-		carregarArquivo("C:/Users/beljo/Downloads/grafos/src/br/edu/ufape/aedii/grafos/projeto/grafo.txt");
 	}
 
-	public void carregarArquivo(String dir) {
-		try (Scanner sc = new Scanner(new FileReader(dir))) {
-			int qtd_vertices = sc.nextInt();
-			int qtd_arestas = sc.nextInt();
+	public void construirGrafo(String nomeArquivo) {
+		try (Scanner sc = new Scanner(getClass().getResourceAsStream(nomeArquivo))) {
+			int qtdVertices = sc.nextInt();
+			int qtdArestas = sc.nextInt();
 			sc.nextLine();
-			for (int i = 0; i < qtd_vertices; i++) {
+			for (int i = 0; i < qtdVertices; i++) {
 				String nome = sc.nextLine();
 				Vertice v = new Vertice(nome);
 				vertices.add(v);
 			}
-			for (int i = 0; i < qtd_arestas; i++) {
+			for (int i = 0; i < qtdArestas; i++) {
 				String linha = sc.nextLine();
 				String partes[] = linha.split(",");
 
@@ -37,19 +31,18 @@ public class GrafoPonderado {
 				int peso = Integer.parseInt(partes[1]);
 				String destino = partes[2];
 
-				// talvez uma abordagem com um HashMap<String, Vertice> fosse mais eficiente não sei
-				Vertice v_origem = this.getVertice(origem);
-				Vertice v_destino = this.getVertice(destino);
-				this.adicionarAresta(v_origem, peso, v_destino);
+				Vertice v1 = this.getVertice(origem);
+				Vertice v2 = this.getVertice(destino);
+				adicionarAresta(v1, peso, v2);
 			}
 		} catch (Exception e) {
-			// TODO: handle exception
+			System.out.println(e);
 		}
 	}
 
 	public Vertice getVertice(String nome) {
-		for(Vertice vertice: this.vertices) 
-			if(vertice.nome.equals(nome))
+		for(Vertice vertice: vertices) 
+			if (vertice.nome.equals(nome))
 				return vertice;
 		return null;
 	}
@@ -67,6 +60,10 @@ public class GrafoPonderado {
 		arestas.add(e);
 	}
 
+	public int getNumeroVertices() {
+		return vertices.size();
+	}
+	
 	public String toString() {
 		String str = "";
 		for (Vertice u : vertices) {
@@ -83,9 +80,4 @@ public class GrafoPonderado {
 		}
 		return str;
 	}
-
-	public int getNumeroVertices() {
-		return vertices.size();
-	}
-
 }
