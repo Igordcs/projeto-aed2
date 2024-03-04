@@ -6,17 +6,21 @@ import java.util.Scanner;
 
 public class GrafoPonderado {
 	List<Vertice> vertices;
-	List<Aresta> arestas;
+	private int[][] matriz;
 
-	public GrafoPonderado() {
+	public GrafoPonderado(String nomeArquivo) {
 		vertices = new ArrayList<Vertice>();
-		arestas = new ArrayList<Aresta>();
+		construirGrafo(nomeArquivo);
 	}
 
 	public void construirGrafo(String nomeArquivo) {
 		try (Scanner sc = new Scanner(getClass().getResourceAsStream(nomeArquivo))) {
 			int qtdVertices = sc.nextInt();
 			int qtdArestas = sc.nextInt();
+			this.matriz = new int[qtdVertices][qtdVertices];
+			for (int i = 0; i < qtdVertices; i++) {
+				this.matriz[i][i] = 0;
+			}
 			sc.nextLine();
 			for (int i = 0; i < qtdVertices; i++) {
 				String nome = sc.nextLine();
@@ -30,10 +34,7 @@ public class GrafoPonderado {
 				String origem = partes[0];
 				int peso = Integer.parseInt(partes[1]);
 				String destino = partes[2];
-
-				Vertice v1 = this.getVertice(origem);
-				Vertice v2 = this.getVertice(destino);
-				adicionarAresta(v1, peso, v2);
+				adicionarAresta(origem, peso, destino);
 			}
 		} catch (Exception e) {
 			System.out.println(e);
@@ -47,34 +48,51 @@ public class GrafoPonderado {
 		return null;
 	}
 
+	public int getIndexVertice(String nome) {
+		return vertices.indexOf(getVertice(nome));
+	}
+
 	public Vertice adicionarVertice(String nome) {
 		Vertice v = new Vertice(nome);
 		vertices.add(v);
 		return v;
 	}
 	
-	public void adicionarAresta(Vertice v1, int peso, Vertice v2) {
-		Aresta e = new Aresta(v1, peso, v2);
-		v1.adicionarAdjacente(e);
-		v2.adicionarAdjacente(e);
-		arestas.add(e);
+	public void adicionarAresta(String origem, int peso, String chegada) {
+		int indexOrigem = getIndexVertice(origem);
+		int indexChegada = getIndexVertice(chegada);
+		this.matriz[indexOrigem][indexChegada] = peso;
+		this.matriz[indexChegada][indexOrigem] = peso;
+	}
+
+	public List<Vertice> getVerticesAdjacentes(String origem) {
+		List<Vertice> adjacentes = new ArrayList<>();
+		int indexVertice = getIndexVertice(origem);
+		if (indexVertice != -1) {
+			for (int i = 0; i < getNumeroVertices(); i++) {
+				if (matriz[indexVertice][i] != 0 && indexVertice != i) {
+					adjacentes.add(vertices.get(i));
+				}
+			}
+		}
+		return adjacentes;
 	}
 
 	public int getNumeroVertices() {
 		return vertices.size();
+	}
+
+	public int[][] getMatriz() {
+		return this.matriz;
 	}
 	
 	public String toString() {
 		String str = "";
 		for (Vertice u : vertices) {
 			str += u.nome + ": ";
-			for (Aresta e : u.adjacentes) {
-				Vertice v1 = e.origem;
-				Vertice v2 = e.destino;
-				if(u.nome.equals(v1.nome))
-					str += "["+v2.nome+"]";
-				else
-					str += "["+v1.nome+"]";
+			List<Vertice> adjacentes = getVerticesAdjacentes(u.nome);
+			for (Vertice vizinho: adjacentes) {
+				str += "["+vizinho.nome+"]";
 			}
 			str += "\n";
 		}

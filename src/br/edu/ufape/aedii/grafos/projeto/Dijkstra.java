@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 public class Dijkstra {
 
 	// vai calcular a menor distancia a partir de um vértice origem a todos outros vértices
-	public void geraCaminho(Vertice origem) {
+	public void geraCaminho(GrafoPonderado gp, Vertice origem) {
 		origem.distanciaAcumulada = 0;
 		// criar fila de prioridade com o nó origem
 		PriorityQueue<Vertice> filaVertices = new PriorityQueue<Vertice>();
@@ -18,33 +18,23 @@ public class Dijkstra {
 			// retira o no com menor distancia (primeiro)
 			Vertice verticeAux = filaVertices.poll();
 			verticeAux.visitado = true;
+			List<Vertice> adjacentes = gp.getVerticesAdjacentes(verticeAux.nome);
 
 			// percorre por todas arestas adjacentes
-			for (Aresta a : verticeAux.adjacentes) {
-				Vertice vizinho = a.origem;
-				Vertice vizinho2 = a.destino;
-				int custo = a.peso;
-				if (verticeAux.nome.equals(vizinho.nome)) {
-					if (!vizinho2.visitado && (verticeAux.distanciaAcumulada + custo) < vizinho2.distanciaAcumulada) {
-						filaVertices.remove(vizinho2); // retira da fila o elemento já vizitado
-						vizinho2.distanciaAcumulada = verticeAux.distanciaAcumulada + custo; // calcula a distancia acumulada (Distancia da origem até o vértice)
-						vizinho2.anterior = verticeAux;
-						filaVertices.add(vizinho2); // Adiciona o vértice vizinho2 para o novo loop
-					}
-				} else {
-					if (!vizinho.visitado && (verticeAux.distanciaAcumulada + custo) < vizinho.distanciaAcumulada) {
-						filaVertices.remove(vizinho); // retira da fila o elemento já vizitado
-						vizinho.distanciaAcumulada = verticeAux.distanciaAcumulada + custo; // calcula a distancia acumulada (Distancia da origem até o vértice)
-						vizinho.anterior = verticeAux;
-						filaVertices.add(vizinho); // Adiciona o vértice vizinho para o novo loop
-					}
+			for (Vertice vizinho: adjacentes) {
+				int custo = gp.getMatriz()[gp.getIndexVertice(verticeAux.nome)][gp.getIndexVertice(vizinho.nome)];
+				if (!vizinho.visitado && (verticeAux.distanciaAcumulada + custo) < vizinho.distanciaAcumulada) {
+					filaVertices.remove(vizinho);
+					vizinho.distanciaAcumulada = verticeAux.distanciaAcumulada + custo;
+					vizinho.anterior = verticeAux;
+					filaVertices.add(vizinho);
 				}
 			}
 		}
 	}
 
-	public List<Vertice> getMenorCaminho(Vertice origem, Vertice chegada) {
-		geraCaminho(origem);
+	public List<Vertice> getMenorCaminho(GrafoPonderado gp, Vertice origem, Vertice chegada) {
+		geraCaminho(gp, origem);
 		List<Vertice> vertices = new ArrayList<Vertice>();
 		Vertice v = chegada;
 		while (v != null) {
