@@ -1,4 +1,4 @@
-package br.edu.ufape.aedii.grafos.projeto;
+package br.edu.ufape.aedii.grafos.projeto.lista;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package br.edu.ufape.aedii.grafos.projeto;
+package br.edu.ufape.aedii.grafos.projeto.lista;
 
 public class Aresta {
     Vertice origem;

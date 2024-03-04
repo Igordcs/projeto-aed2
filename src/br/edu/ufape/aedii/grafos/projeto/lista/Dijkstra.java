@@ -1,4 +1,4 @@
-package br.edu.ufape.aedii.grafos.projeto;
+package br.edu.ufape.aedii.grafos.projeto.lista;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -6,9 +6,20 @@ import java.util.Collections;
 import java.util.PriorityQueue;
 
 public class Dijkstra {
+	double precoFibra;
+	double precoAmplificador;
+	int numAmplificador;
+	int distanciaSinal;
 
+	public Dijkstra(double precoFibra, double precoAmplificador, int distanciaSinal) {
+		this.precoFibra = precoFibra;
+		this.precoAmplificador = precoAmplificador;	
+		this.numAmplificador = 0;
+		this.distanciaSinal = distanciaSinal;
+	}
+	
 	// vai calcular a menor distancia a partir de um vértice origem a todos outros vértices
-	public void geraCaminho(Vertice origem) {
+	public void gerarCaminho(Vertice origem) {
 		origem.distanciaAcumulada = 0;
 		// criar fila de prioridade com o nó origem
 		PriorityQueue<Vertice> filaVertices = new PriorityQueue<Vertice>();
@@ -44,9 +55,10 @@ public class Dijkstra {
 	}
 
 	public List<Vertice> getMenorCaminho(Vertice origem, Vertice chegada) {
-		geraCaminho(origem);
+		gerarCaminho(origem);
 		List<Vertice> vertices = new ArrayList<Vertice>();
 		Vertice v = chegada;
+		numAmplificador = v.distanciaAcumulada / distanciaSinal;
 		while (v != null) {
 			vertices.add(v);
 			v = v.anterior;
@@ -54,12 +66,18 @@ public class Dijkstra {
 		Collections.reverse(vertices);
 		return vertices;
 	}
-	
-	public void imprimirDados(List<Vertice> caminho, double precoFibra) {
+		
+	public void imprimirDados(List<Vertice> caminho) {
 		Vertice v = caminho.get(caminho.size() - 1);
-		double custoTotal = v.distanciaAcumulada * precoFibra;
+		double custoFibra = v.distanciaAcumulada * precoFibra;
+		double custoAmplificadores = precoAmplificador * numAmplificador;
+		double custoTotal = custoFibra + custoAmplificadores;
+		
 		System.out.println("Caminho de menor custo: " + caminho);
 		System.out.printf("Distância: %d km\n", v.distanciaAcumulada);
-		System.out.printf("Custo total: R$ %.2f", custoTotal);
+		System.out.println("Custos:");
+		System.out.printf("- Fibra óptica: R$ %.2f\n", custoFibra);
+		System.out.printf("- Amplificadores (%d): R$ %.2f\n", numAmplificador, custoAmplificadores);
+		System.out.printf("- Total: R$ %.2f\n", custoTotal);
 	}
 }
