@@ -11,9 +11,10 @@ public class Teste {
 
 		Dijkstra dijkstra = new Dijkstra(719.99, 3200.00, 10);
 		Vertice origem = g.getVertice("v1");
-		Vertice chegada = g.getVertice("v12");
+		Vertice chegada = g.getVertice("v10");
 		List<Vertice> caminho = dijkstra.getMenorCaminho(g, origem, chegada);
 		dijkstra.imprimirDados(caminho, 719.99);
+		
 	}
 
 }

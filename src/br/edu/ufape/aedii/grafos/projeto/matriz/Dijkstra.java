@@ -8,13 +8,13 @@ import java.util.PriorityQueue;
 public class Dijkstra {
 	double precoFibra;
 	double precoAmplificador;
-	int numAmplificador;
+	int numAmplificadores;
 	int distanciaSinal;
 
 	public Dijkstra(double precoFibra, double precoAmplificador, int distanciaSinal) {
 		this.precoFibra = precoFibra;
 		this.precoAmplificador = precoAmplificador;
-		this.numAmplificador = 0;
+		this.numAmplificadores = 0;
 		this.distanciaSinal = distanciaSinal;
 	}
 
@@ -44,11 +44,29 @@ public class Dijkstra {
 		}
 	}
 
+	public void posicionarAmplificadores(List<Vertice> caminho) {
+		int posicaoAmplificador = distanciaSinal;
+		for (Vertice vertice : caminho) {
+			Vertice anterior = vertice.anterior;
+			
+			while (posicaoAmplificador < vertice.distanciaAcumulada) {
+				int distAmplificador = posicaoAmplificador - anterior.distanciaAcumulada;
+				numAmplificadores++;
+				System.out.printf("Amplificador %d a %dkm de %s\n", numAmplificadores, distAmplificador, anterior.nome);
+				posicaoAmplificador += distanciaSinal;
+			}
+			if (posicaoAmplificador == vertice.distanciaAcumulada) {
+				numAmplificadores++;
+				System.out.printf("Amplificador %d a 0km de %s\n", numAmplificadores, vertice.nome);
+				posicaoAmplificador += distanciaSinal;
+			}
+		}
+	}
+
 	public List<Vertice> getMenorCaminho(GrafoPonderado gp, Vertice origem, Vertice chegada) {
 		gerarCaminho(gp, origem);
 		List<Vertice> vertices = new ArrayList<Vertice>();
 		Vertice v = chegada;
-		numAmplificador = v.distanciaAcumulada / distanciaSinal;
 		while (v != null) {
 			vertices.add(v);
 			v = v.anterior;
@@ -59,15 +77,16 @@ public class Dijkstra {
 
 	public void imprimirDados(List<Vertice> caminho, double precoFibra) {
 		Vertice v = caminho.get(caminho.size() - 1);
-		double custoFibra = v.distanciaAcumulada * precoFibra;
-		double custoAmplificadores = precoAmplificador * numAmplificador;
-		double custoTotal = custoFibra + custoAmplificadores;
-
 		System.out.println("Caminho de menor custo: " + caminho);
 		System.out.printf("Distância: %d km\n", v.distanciaAcumulada);
+		// numAmplificadores incrementa após chamada abaixo
+		posicionarAmplificadores(caminho);
+		double custoFibra = v.distanciaAcumulada * precoFibra;
+		double custoAmplificadores = precoAmplificador * numAmplificadores;
+		double custoTotal = custoFibra + custoAmplificadores;
 		System.out.println("Custos:");
 		System.out.printf("- Fibra óptica: R$ %.2f\n", custoFibra);
-		System.out.printf("- Amplificadores (%d): R$ %.2f\n", numAmplificador, custoAmplificadores);
+		System.out.printf("- Amplificadores (%d): R$ %.2f\n", numAmplificadores, custoAmplificadores);
 		System.out.printf("- Total: R$ %.2f\n", custoTotal);
 	}
 }
