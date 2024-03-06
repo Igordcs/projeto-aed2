@@ -58,7 +58,7 @@ public class Dijkstra {
 		gerarCaminho(origem);
 		List<Vertice> vertices = new ArrayList<Vertice>();
 		Vertice v = chegada;
-		numAmplificador = v.distanciaAcumulada / distanciaSinal;
+		numAmplificador = (int) v.distanciaAcumulada / distanciaSinal;
 		while (v != null) {
 			vertices.add(v);
 			v = v.anterior;

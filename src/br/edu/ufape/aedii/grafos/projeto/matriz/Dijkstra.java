@@ -20,6 +20,11 @@ public class Dijkstra {
 
 	// vai calcular a menor distancia a partir de um vértice origem a todos outros vértices
 	public void gerarCaminho(GrafoPonderado gp, Vertice origem) {
+		for (Vertice v: gp.vertices) {
+			v.distanciaAcumulada = Double.POSITIVE_INFINITY;
+			v.visitado = false;
+			v.anterior = null;
+		}
 		origem.distanciaAcumulada = 0;
 		// criar fila de prioridade com o nó origem
 		PriorityQueue<Vertice> filaVertices = new PriorityQueue<Vertice>();

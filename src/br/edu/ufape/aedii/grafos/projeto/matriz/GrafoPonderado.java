@@ -14,7 +14,7 @@ public class GrafoPonderado {
 	}
 
 	public void construirGrafo(String nomeArquivo) {
-		try (Scanner sc = new Scanner(getClass().getResourceAsStream(nomeArquivo))) {
+		try (Scanner sc = new Scanner(getClass().getResourceAsStream(nomeArquivo), "UTF-8")) {
 			int qtdVertices = sc.nextInt();
 			int qtdArestas = sc.nextInt();
 			this.matriz = new double[qtdVertices][qtdVertices];
@@ -23,7 +23,7 @@ public class GrafoPonderado {
 			}
 			sc.nextLine();
 			for (int i = 0; i < qtdVertices; i++) {
-				String nome = sc.nextLine();
+				String nome = sc.nextLine().toUpperCase();
 				Vertice v = new Vertice(nome);
 				vertices.add(v);
 			}
@@ -31,9 +31,9 @@ public class GrafoPonderado {
 				String linha = sc.nextLine();
 				String partes[] = linha.split(",");
 
-				String origem = partes[0];
+				String origem = partes[0].toUpperCase();
 				double peso = Double.parseDouble(partes[1]);
-				String destino = partes[2];
+				String destino = partes[2].toUpperCase();
 				adicionarAresta(origem, peso, destino);
 			}
 		} catch (Exception e) {
@@ -43,7 +43,7 @@ public class GrafoPonderado {
 
 	public Vertice getVertice(String nome) {
 		for (Vertice vertice : vertices)
-			if (vertice.nome.equals(nome))
+			if (vertice.nome.equals(nome.toUpperCase()))
 				return vertice;
 		return null;
 	}
@@ -53,7 +53,7 @@ public class GrafoPonderado {
 	}
 
 	public Vertice adicionarVertice(String nome) {
-		Vertice v = new Vertice(nome);
+		Vertice v = new Vertice(nome.toUpperCase());
 		vertices.add(v);
 		return v;
 	}
