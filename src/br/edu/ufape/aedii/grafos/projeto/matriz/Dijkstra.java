@@ -9,9 +9,9 @@ public class Dijkstra {
 	double precoFibra;
 	double precoAmplificador;
 	int numAmplificadores;
-	int distanciaSinal;
+	double distanciaSinal;
 
-	public Dijkstra(double precoFibra, double precoAmplificador, int distanciaSinal) {
+	public Dijkstra(double precoFibra, double precoAmplificador, double distanciaSinal) {
 		this.precoFibra = precoFibra;
 		this.precoAmplificador = precoAmplificador;
 		this.numAmplificadores = 0;
@@ -33,7 +33,7 @@ public class Dijkstra {
 
 			// percorre por todas arestas adjacentes
 			for (Vertice vizinho : adjacentes) {
-				int custo = gp.getMatriz()[gp.getIndexVertice(verticeAux.nome)][gp.getIndexVertice(vizinho.nome)];
+				double custo = gp.getMatriz()[gp.getIndexVertice(verticeAux.nome)][gp.getIndexVertice(vizinho.nome)];
 				if (!vizinho.visitado && (verticeAux.distanciaAcumulada + custo) < vizinho.distanciaAcumulada) {
 					filaVertices.remove(vizinho);
 					vizinho.distanciaAcumulada = verticeAux.distanciaAcumulada + custo;
@@ -45,19 +45,19 @@ public class Dijkstra {
 	}
 
 	public void posicionarAmplificadores(List<Vertice> caminho) {
-		int posicaoAmplificador = distanciaSinal;
+		double posicaoAmplificador = distanciaSinal;
 		for (Vertice vertice : caminho) {
 			Vertice anterior = vertice.anterior;
 			
 			while (posicaoAmplificador < vertice.distanciaAcumulada) {
-				int distAmplificador = posicaoAmplificador - anterior.distanciaAcumulada;
+				double distAmplificador = posicaoAmplificador - anterior.distanciaAcumulada;
 				numAmplificadores++;
-				System.out.printf("Amplificador %d a %dkm de %s\n", numAmplificadores, distAmplificador, anterior.nome);
+				System.out.printf("Amplificador %d a %.1f km de %s\n", numAmplificadores, distAmplificador, anterior.nome);
 				posicaoAmplificador += distanciaSinal;
 			}
 			if (posicaoAmplificador == vertice.distanciaAcumulada) {
 				numAmplificadores++;
-				System.out.printf("Amplificador %d a 0km de %s\n", numAmplificadores, vertice.nome);
+				System.out.printf("Amplificador %d a 0,0 km de %s\n", numAmplificadores, vertice.nome);
 				posicaoAmplificador += distanciaSinal;
 			}
 		}
@@ -78,7 +78,7 @@ public class Dijkstra {
 	public void imprimirDados(List<Vertice> caminho, double precoFibra) {
 		Vertice v = caminho.get(caminho.size() - 1);
 		System.out.println("Caminho de menor custo: " + caminho);
-		System.out.printf("Distância: %d km\n", v.distanciaAcumulada);
+		System.out.printf("Distância: %.1f km\n", v.distanciaAcumulada);
 		// numAmplificadores incrementa após chamada abaixo
 		posicionarAmplificadores(caminho);
 		double custoFibra = v.distanciaAcumulada * precoFibra;

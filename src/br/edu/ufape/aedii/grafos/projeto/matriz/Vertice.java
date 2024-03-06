@@ -3,7 +3,7 @@ package br.edu.ufape.aedii.grafos.projeto.matriz;
 public class Vertice implements Comparable<Vertice> {
 	public String nome;
 	Vertice anterior;
-	int distanciaAcumulada;
+	double distanciaAcumulada;
 	boolean visitado;
 
 	public Vertice(String nome) {
@@ -15,7 +15,7 @@ public class Vertice implements Comparable<Vertice> {
 
 	@Override
 	public int compareTo(Vertice v1) {
-		return Integer.compare(distanciaAcumulada, v1.distanciaAcumulada);
+		return Double.compare(distanciaAcumulada, v1.distanciaAcumulada);
 	}
 
 	@Override

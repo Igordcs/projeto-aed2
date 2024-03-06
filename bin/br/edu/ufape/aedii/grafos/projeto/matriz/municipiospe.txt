@@ -1,0 +1,1055 @@
+182 872
+Abreu e Lima
+Afogados da Ingazeira
+Afrânio
+Agrestina
+Água Preta
+Águas Belas
+Alagoinha
+Aliança
+Altinho
+Amaraji
+Angelim
+Araçoiaba
+Araripina
+Arcoverde
+Barra de Guabiraba
+Barreiros
+Belém de Maria
+Belém de São Francisco
+Belo Jardim
+Betânia
+Bezerros
+Bodocó
+Bom Conselho
+Bom Jardim
+Bonito
+Brejão
+Brejinho
+Brejo da Madre de Deus
+Buenos Aires
+Buíque
+Cabo de Santo Agostinho
+Cabrobó
+Cachoeirinha
+Caetés
+Calçado
+Calumbi
+Camaragibe
+Camocim de São Félix
+Camutanga
+Canhotinho
+Capoeiras
+Carnaíba
+Carnaubeira da Penha
+Carpina
+Caruaru
+Casinhas
+Catende
+Cedro
+Chã de Alegria
+Chã Grande
+Condado
+Correntes
+Cortês
+Cumaru
+Cupira
+Custódia
+Dormentes
+Escada
+Exu
+Feira Nova
+Ferreiros
+Flores
+Floresta
+Frei Miguelinho
+Gameleira
+Garanhuns
+Glória do Goitá
+Goiana
+Granito
+Gravatá
+Iati
+Ibimirim
+Ibirajuba
+Igarassu
+Iguaracy
+Inajá
+Ingazeira
+Ipojuca
+Ipubi
+Itacuruba
+Itaíba
+Itambé
+Itapetim
+Itapissuma
+Itaquitinga
+Jaboatão dos Guararapes
+Jaqueira
+Jataúba
+Jatobá
+João Alfredo
+Joaquim Nabuco
+Jucati
+Jupi
+Jurema
+Lagoa de Itaenga
+Lagoa do Carro
+Lagoa do Ouro
+Lagoa dos Gatos
+Lagoa Grande
+Lajedo
+Limoeiro
+Macaparana
+Machados
+Manari
+Maraial
+Mirandiba
+Moreilândia
+Moreno
+Nazaré da Mata
+Olinda
+Orobó
+Orocó
+Ouricuri
+Palmares
+Palmeirina
+Panelas
+Paranatama
+Parnamirim
+Passira
+Paudalho
+Paulista
+Pedra
+Pesqueira
+Petrolândia
+Petrolina
+Poção
+Pombos
+Primavera
+Quipapá
+Quixaba
+Recife
+Riacho das Almas
+Ribeirão
+Rio Formoso
+Sairé
+Salgadinho
+Salgueiro
+Saloá
+Sanharó
+Santa Cruz da Baixa Verde
+Santa Cruz do Capibaribe
+Santa Filomena
+Santa Maria da Boa Vista
+Santa Maria do Cambucá
+Santa Terezinha
+São Benedito do Sul
+São Bento do Una
+São Caetano
+São João
+São Joaquim do Monte
+São José da Coroa Grande
+São José do Belmonte
+São José do Egito
+São Lourenço da Mata
+São Vicente Ferrer
+Serra Talhada
+Serrita
+Sertânia
+Sirinhaém
+Solidão
+Surubim
+Tabira
+Tacaimbó
+Tacaratu
+Tamandaré
+Taquaritinga do Norte
+Terezinha
+Terra Nova
+Timbaúba
+Toritama
+Tracunhaém
+Trindade
+Triunfo
+Tupanatinga
+Tuparetama
+Venturosa
+Verdejante
+Vertente do Lério
+Vertentes
+Vicência
+Vitória de Santo Antão
+Xexéu
+Abreu e Lima,16,Paulista
+Abreu e Lima,7,Igarassu
+Abreu e Lima,57,Paudalho
+Abreu e Lima,40,Araçoiaba
+Afogados da Ingazeira,32,Solidão
+Afogados da Ingazeira,22,Carnaíba
+Afogados da Ingazeira,23,Tabira
+Afogados da Ingazeira,19,Iguaracy
+Afrânio,32,Dormentes
+Afrânio,119,Petrolina
+Agrestina,21,Caruaru
+Agrestina,51,Bezerros
+Agrestina,27,São Joaquim do Monte
+Agrestina,15,Altinho
+Agrestina,18,Cupira
+Água Preta,43,Ribeirão
+Água Preta,46,Barreiros
+Água Preta,41,Gameleira
+Água Preta,58,Tamandaré
+Água Preta,14,Palmares
+Água Preta,28,Xexéu
+Água Preta,19,Joaquim Nabuco
+Águas Belas,89,Buíque
+Águas Belas,99,Pedra
+Águas Belas,39,Iati
+Águas Belas,39,Itaíba
+Alagoinha,18,Venturosa
+Alagoinha,16,Pesqueira
+Aliança,26,Ferreiros
+Aliança,39,Itambé
+Aliança,21,Nazaré da Mata
+Aliança,18,Condado
+Aliança,18,Vicência
+Aliança,17,Timbaúba
+Altinho,15,Agrestina
+Altinho,33,Caruaru
+Altinho,49,São Caetano
+Altinho,18,Ibirajuba
+Altinho,44,Panelas
+Altinho,33,Cupira
+Altinho,22,Cachoeirinha
+Amaraji,21,Chã Grande
+Amaraji,41,Ribeirão
+Amaraji,17,Primavera
+Amaraji,29,Cortês
+Amaraji,39,Gravatá
+Angelim,42,Jupi
+Angelim,17,Palmeirina
+Angelim,13,Canhotinho
+Angelim,11,São João
+Araçoiaba,38,Abreu e Lima
+Araçoiaba,23,Itaquitinga
+Araçoiaba,31,Paudalho
+Araçoiaba,32,Igarassu
+Araçoiaba,25,Carpina
+Araçoiaba,26,Tracunhaém
+Araripina,61,Ouricuri
+Araripina,54,Ipubi
+Araripina,35,Trindade
+Arcoverde,27,Buíque
+Arcoverde,19,Pedra
+Arcoverde,43,Pesqueira
+Arcoverde,59,Sertânia
+Barra de Guabiraba,56,Gravatá
+Barra de Guabiraba,14,Sairé
+Barra de Guabiraba,16,Bonito
+Barra de Guabiraba,18,Cortês
+Barreiros,21,Tamandaré
+Barreiros,12,São José da Coroa Grande
+Barreiros,46,Água Preta
+Belém de Maria,35,Bonito
+Belém de Maria,29,São Joaquim do Monte
+Belém de Maria,15,Lagoa dos Gatos
+Belém de Maria,16,Cupira
+Belém de Maria,32,Jaqueira
+Belém de São Francisco,51,Cabrobó
+Belém de São Francisco,97,Salgueiro
+Belém de São Francisco,91,Carnaubeira da Penha
+Belém de São Francisco,46,Floresta
+Belém de São Francisco,38,Itacuruba
+Belo Jardim,61,Jataúba
+Belo Jardim,36,Brejo da Madre de Deus
+Belo Jardim,26,São Bento do Una
+Belo Jardim,20,Tacaimbó
+Belo Jardim,18,Sanharó
+Betânia,62,Flores
+Betânia,86,Calumbi
+Betânia,86,Floresta
+Betânia,58,Custódia
+Betânia,88,Serra Talhada
+Bezerros,40,Cumaru
+Bezerros,48,Passira
+Bezerros,29,São Joaquim do Monte
+Bezerros,50,Agrestina
+Bezerros,22,Gravatá
+Bezerros,15,Sairé
+Bezerros,18,Camocim de São Félix
+Bezerros,31,Riacho das Almas
+Bezerros,31,Caruaru
+Bodocó,80,Parnamirim
+Bodocó,40,Exu
+Bodocó,42,Granito
+Bodocó,51,Ipubi
+Bodocó,21,Ouricuri
+Bom Conselho,18,Terezinha
+Bom Conselho,26,Saloá
+Bom Conselho,26,Iati
+Bom Conselho,31,Lagoa do Ouro
+Bom Jardim,7,Orobó
+Bom Jardim,34,Machados
+Bom Jardim,13,João Alfredo
+Bom Jardim,52,Vicência
+Bom Jardim,26,Limoeiro
+Bom Jardim,41,Surubim
+Bom Jardim,29,Casinhas
+Bonito,15,Camocim de São Félix
+Bonito,26,Sairé
+Bonito,16,Barra de Guabiraba
+Bonito,65,Palmares
+Bonito,44,Catende
+Bonito,34,Cortês
+Bonito,76,Joaquim Nabuco
+Bonito,25,São Joaquim do Monte
+Bonito,35,Belém de Maria
+Brejão,22,Garanhuns
+Brejão,34,Lagoa do Ouro
+Brejão,9,Terezinha
+Brejinho,15,São José do Egito
+Brejinho,16,Itapetim
+Brejinho,27,Santa Terezinha
+Brejo da Madre de Deus,60,Santa Cruz do Capibaribe
+Brejo da Madre de Deus,82,Taquaritinga do Norte
+Brejo da Madre de Deus,36,Belo Jardim
+Brejo da Madre de Deus,68,São Caetano
+Brejo da Madre de Deus,71,Caruaru
+Brejo da Madre de Deus,25,Jataúba
+Buenos Aires,4,Vicência
+Buenos Aires,4,Carpina
+Buenos Aires,4,Nazaré da Mata
+Buenos Aires,4,Limoeiro
+Buíque,27,Tupanatinga
+Buíque,28,Arcoverde
+Buíque,84,Sertânia
+Buíque,42,Pedra
+Buíque,89,Águas Belas
+Buíque,52,Itaíba
+Cabo de Santo Agostinho,17,Ipojuca
+Cabo de Santo Agostinho,22,Jaboatão dos Guararapes
+Cabo de Santo Agostinho,27,Escada
+Cabo de Santo Agostinho,60,Vitória de Santo Antão
+Cabo de Santo Agostinho,54,Moreno
+Cabrobó,44,Terra Nova
+Cabrobó,68,Salgueiro
+Cabrobó,51,Belém de São Francisco
+Cabrobó,40,Orocó
+Cabrobó,80,Parnamirim
+Cachoeirinha,22,Altinho
+Cachoeirinha,39,Tacaimbó
+Cachoeirinha,23,São Caetano
+Cachoeirinha,30,Ibirajuba
+Cachoeirinha,22,Lajedo
+Cachoeirinha,42,São Bento do Una
+Caetés,40,Venturosa
+Caetés,6,Capoeiras
+Caetés,36,Paranatama
+Caetés,21,Garanhuns
+Caetés,52,Pedra
+Calçado,12,Jupi
+Calçado,12,Lajedo
+Calçado,32,Canhotinho
+Calumbi,19,Serra Talhada
+Calumbi,85,Betânia
+Calumbi,24,Triunfo
+Calumbi,21,Santa Cruz da Baixa Verde
+Calumbi,23,Flores
+Camaragibe,19,Recife
+Camaragibe,7,São Lourenço da Mata
+Camaragibe,31,Paulista
+Camaragibe,28,Paudalho
+Camocim de São Félix,12,Sairé
+Camocim de São Félix,18,Bezerros
+Camocim de São Félix,10,São Joaquim do Monte
+Camocim de São Félix,15,Bonito
+Camutanga,7,Ferreiros
+Camutanga,23,Itambé
+Camutanga,18,Timbaúba
+Canhotinho,33,Lajedo
+Canhotinho,39,Jurema
+Canhotinho,30,Palmeirina
+Canhotinho,27,Quipapá
+Canhotinho,32,Calçado
+Canhotinho,13,Angelim
+Capoeiras,33,São Bento do Una
+Capoeiras,27,Garanhuns
+Capoeiras,18,Jucati
+Capoeiras,6,Caetés
+Capoeiras,74,Pesqueira
+Carnaíba,49,Solidão
+Carnaíba,75,Custódia
+Carnaíba,22,Afogados da Ingazeira
+Carnaíba,24,Flores
+Carnaíba,15,Quixaba
+Carnaubeira da Penha,25,Mirandiba
+Carnaubeira da Penha,87,Salgueiro
+Carnaubeira da Penha,91,Belém de São Francisco
+Carnaubeira da Penha,45,Floresta
+Carnaubeira da Penha,88,Serra Talhada
+Carpina,6,Tracunhaém
+Carpina,14,Nazaré da Mata
+Carpina,4,Buenos Aires
+Carpina,17,Lagoa de Itaenga
+Carpina,7,Lagoa do Carro
+Carpina,12,Paudalho
+Carpina,26,Limoeiro
+Carpina,25,Araçoiaba
+Caruaru,37,Toritama
+Caruaru,52,Vertentes
+Caruaru,62,Taquaritinga do Norte
+Caruaru,33,Altinho
+Caruaru,21,Agrestina
+Caruaru,34,Bezerros
+Caruaru,45,Frei Miguelinho
+Caruaru,27,Riacho das Almas
+Caruaru,68,Brejo da Madre de Deus
+Caruaru,19,São Caetano
+Casinhas,28,Surubim
+Casinhas,20,Vertente do Lério
+Casinhas,22,Orobó
+Casinhas,28,Bom Jardim
+Catende,44,Bonito
+Catende,21,Maraial
+Catende,22,Palmares
+Catende,15,Jaqueira
+Cedro,52,Salgueiro
+Cedro,32,Serrita
+Chã de Alegria,16,Paudalho
+Chã de Alegria,11,Glória do Goitá
+Chã de Alegria,33,São Lourenço da Mata
+Chã de Alegria,27,Vitória de Santo Antão
+Chã Grande,18,Gravatá
+Chã Grande,21,Amaraji
+Chã Grande,37,Primavera
+Chã Grande,21,Pombos
+Condado,24,Itambé
+Condado,15,Itaquitinga
+Condado,11,Goiana
+Condado,18,Aliança
+Condado,39,Nazaré da Mata
+Correntes,45,Garanhuns
+Correntes,24,Palmeirina
+Correntes,16,Lagoa do Ouro
+Cortês,73,Gravatá
+Cortês,58,Joaquim Nabuco
+Cortês,29,Amaraji
+Cortês,28,Ribeirão
+Cortês,18,Barra de Guabiraba
+Cortês,34,Bonito
+Cumaru,73,Surubim
+Cumaru,18,Passira
+Cumaru,40,Bezerros
+Cupira,19,Agrestina
+Cupira,34,Altinho
+Cupira,44,São Joaquim do Monte
+Cupira,10,Lagoa dos Gatos
+Cupira,16,Belém de Maria
+Cupira,13,Panelas
+Custódia,59,Betânia
+Custódia,51,Flores
+Custódia,74,Carnaíba
+Custódia,35,Iguaracy
+Custódia,43,Sertânia
+Custódia,107,Ibimirim
+Custódia,161,Floresta
+Dormentes,32,Afrânio
+Dormentes,127,Petrolina
+Dormentes,121,Lagoa Grande
+Dormentes,38,Santa Filomena
+Escada,28,Cabo de Santo Agostinho
+Escada,36,Vitória de Santo Antão
+Escada,27,Ribeirão
+Escada,53,Sirinhaém
+Escada,23,Primavera
+Escada,30,Ipojuca
+Exu,40,Bodocó
+Exu,43,Granito
+Exu,31,Moreilândia
+Feira Nova,12,Limoeiro
+Feira Nova,15,Glória do Goitá
+Feira Nova,31,Passira
+Feira Nova,14,Lagoa de Itaenga
+Ferreiros,13,Timbaúba
+Ferreiros,7,Camutanga
+Ferreiros,25,Itambé
+Ferreiros,26,Aliança
+Flores,63,Betânia
+Flores,24,Carnaíba
+Flores,51,Custódia
+Flores,20,Triunfo
+Flores,23,Calumbi
+Flores,37,Quixaba
+Floresta,91,Serra Talhada
+Floresta,86,Betânia
+Floresta,161,Custódia
+Floresta,70,Mirandiba
+Floresta,130,Inajá
+Floresta,89,Tacaratu
+Floresta,66,Petrolândia
+Floresta,103,Ibimirim
+Floresta,45,Carnaubeira da Penha
+Floresta,46,Belém de São Francisco
+Floresta,32,Itacuruba
+Frei Miguelinho,13,Surubim
+Frei Miguelinho,63,Caruaru
+Frei Miguelinho,17,Santa Maria do Cambucá
+Frei Miguelinho,26,Riacho das Almas
+Frei Miguelinho,16,Vertentes
+Gameleira,12,Ribeirão
+Gameleira,42,Água Preta
+Gameleira,33,Rio Formoso
+Garanhuns,32,Jucati
+Garanhuns,27,Capoeiras
+Garanhuns,21,Caetés
+Garanhuns,23,Brejão
+Garanhuns,30,Terezinha
+Garanhuns,46,Correntes
+Garanhuns,16,São João
+Garanhuns,41,Palmeirina
+Garanhuns,34,Saloá
+Garanhuns,23,Paranatama
+Garanhuns,36,Lagoa do Ouro
+Glória do Goitá,15,Feira Nova
+Glória do Goitá,10,Lagoa de Itaenga
+Glória do Goitá,26,Paudalho
+Glória do Goitá,21,Vitória de Santo Antão
+Glória do Goitá,11,Chã de Alegria
+Glória do Goitá,44,Passira
+Goiana,11,Condado
+Goiana,26,Itaquitinga
+Goiana,25,Itambé
+Goiana,38,Igarassu
+Goiana,37,Itapissuma
+Granito,43,Exu
+Granito,64,Parnamirim
+Granito,49,Serrita
+Granito,42,Bodocó
+Granito,14,Moreilândia
+Gravatá,49,Passira
+Gravatá,25,Bezerros
+Gravatá,22,Pombos
+Gravatá,17,Chã Grande
+Gravatá,38,Amaraji
+Gravatá,76,Cortês
+Gravatá,58,Barra de Guabiraba
+Gravatá,38,Sairé
+Iati,30,Saloá
+Iati,26,Bom Conselho
+Iati,39,Águas Belas
+Ibimirim,86,Sertânia
+Ibimirim,108,Custódia
+Ibimirim,53,Inajá
+Ibimirim,63,Manari
+Ibimirim,65,Tupanatinga
+Ibimirim,103,Floresta
+Ibirajuba,18,Altinho
+Ibirajuba,30,Cachoeirinha
+Ibirajuba,23,Lajedo
+Ibirajuba,63,Panelas
+Ibirajuba,53,Jurema
+Igarassu,38,Goiana
+Igarassu,59,Tracunhaém
+Igarassu,64,Itaquitinga
+Igarassu,24,Paulista
+Igarassu,8,Abreu e Lima
+Igarassu,8,Itapissuma
+Igarassu,33,Araçoiaba
+Iguaracy,30,Ingazeira
+Iguaracy,44,Tuparetama
+Iguaracy,42,Tabira
+Iguaracy,35,Custódia
+Iguaracy,47,Sertânia
+Iguaracy,19,Afogados da Ingazeira
+Inajá,53,Ibimirim
+Inajá,31,Manari
+Inajá,51,Tacaratu
+Inajá,130,Floresta
+Ingazeira,17,Tabira
+Ingazeira,43,São José do Egito
+Ingazeira,30,Iguaracy
+Ingazeira,25,Tuparetama
+Ipojuca,18,Cabo de Santo Agostinho
+Ipojuca,27,Sirinhaém
+Ipojuca,28,Escada
+Ipubi,33,Ouricuri
+Ipubi,35,Bodocó
+Ipubi,54,Araripina
+Ipubi,20,Trindade
+Itacuruba,39,Belém de São Francisco
+Itacuruba,32,Floresta
+Itaíba,26,Tupanatinga
+Itaíba,39,Águas Belas
+Itaíba,52,Buíque
+Itaíba,25,Manari
+Itambé,25,Goiana
+Itambé,24,Condado
+Itambé,39,Aliança
+Itambé,23,Camutanga
+Itambé,25,Ferreiros
+Itapetim,19,São José do Egito
+Itapetim,16,Brejinho
+Itapissuma,37,Goiana
+Itapissuma,11,Igarassu
+Itaquitinga,15,Condado
+Itaquitinga,64,Igarassu
+Itaquitinga,26,Goiana
+Itaquitinga,26,Tracunhaém
+Itaquitinga,23,Araçoiaba
+Jaboatão dos Guararapes,17,Recife
+Jaboatão dos Guararapes,23,Cabo de Santo Agostinho
+Jaboatão dos Guararapes,39,Moreno
+Jaboatão dos Guararapes,37,São Lourenço da Mata
+Jaqueira,46,Lagoa dos Gatos
+Jaqueira,15,Catende
+Jaqueira,32,Belém de Maria
+Jaqueira,8,Maraial
+Jaqueira,28,São Benedito do Sul
+Jataúba,61,Belo Jardim
+Jataúba,25,Brejo da Madre de Deus
+Jataúba,37,Santa Cruz do Capibaribe
+Jataúba,39,Poção
+Jatobá,26,Petrolândia
+Jatobá,12,Tacaratu
+João Alfredo,13,Bom Jardim
+João Alfredo,32,Limoeiro
+João Alfredo,13,Salgadinho
+João Alfredo,36,Surubim
+Joaquim Nabuco,76,Bonito
+Joaquim Nabuco,59,Cortês
+Joaquim Nabuco,21,Água Preta
+Joaquim Nabuco,13,Palmares
+Joaquim Nabuco,31,Ribeirão
+Jucati,40,São Bento do Una
+Jucati,41,São João
+Jucati,32,Garanhuns
+Jucati,9,Jupi
+Jucati,18,Capoeiras
+Jupi,32,São Bento do Una
+Jupi,33,São João
+Jupi,43,Angelim
+Jupi,12,Calçado
+Jupi,9,Jucati
+Jupi,14,Lajedo
+Jurema,21,Panelas
+Jurema,39,Canhotinho
+Jurema,41,Quipapá
+Jurema,53,Ibirajuba
+Jurema,30,Lajedo
+Lagoa de Itaenga,17,Carpina
+Lagoa de Itaenga,24,Lagoa do Carro
+Lagoa de Itaenga,20,Glória do Goitá
+Lagoa de Itaenga,19,Paudalho
+Lagoa de Itaenga,14,Feira Nova
+Lagoa do Carro,7,Carpina
+Lagoa do Carro,24,Lagoa de Itaenga
+Lagoa do Carro,20,Limoeiro
+Lagoa do Ouro,35,Garanhuns
+Lagoa do Ouro,34,Brejão
+Lagoa do Ouro,16,Correntes
+Lagoa do Ouro,31,Bom Conselho
+Lagoa dos Gatos,11,Cupira
+Lagoa dos Gatos,52,São Benedito do Sul
+Lagoa dos Gatos,15,Belém de Maria
+Lagoa dos Gatos,22,Panelas
+Lagoa dos Gatos,46,Jaqueira
+Lagoa Grande,56,Santa Maria da Boa Vista
+Lagoa Grande,53,Petrolina
+Lagoa Grande,121,Dormentes
+Lajedo,13,Jupi
+Lajedo,11,Calçado
+Lajedo,32,Canhotinho
+Lajedo,23,Ibirajuba
+Lajedo,29,Jurema
+Lajedo,22,Cachoeirinha
+Lajedo,21,São Bento do Una
+Limoeiro,51,Vicência
+Limoeiro,4,Buenos Aires
+Limoeiro,29,Salgadinho
+Limoeiro,12,Feira Nova
+Limoeiro,26,Bom Jardim
+Limoeiro,32,João Alfredo
+Limoeiro,26,Carpina
+Limoeiro,19,Lagoa do Carro
+Limoeiro,20,Passira
+Macaparana,34,Vicência
+Macaparana,21,Timbaúba
+Macaparana,7,São Vicente Ferrer
+Machados,19,São Vicente Ferrer
+Machados,34,Bom Jardim
+Machados,19,Orobó
+Machados,27,Vicência
+Manari,63,Ibimirim
+Manari,25,Itaíba
+Manari,32,Inajá
+Maraial,8,Jaqueira
+Maraial,21,Catende
+Maraial,46,Xexéu
+Maraial,30,São Benedito do Sul
+Mirandiba,42,São José do Belmonte
+Mirandiba,26,Carnaubeira da Penha
+Mirandiba,63,Serra Talhada
+Mirandiba,52,Verdejante
+Mirandiba,62,Salgueiro
+Mirandiba,70,Floresta
+Moreilândia,50,Serrita
+Moreilândia,31,Exu
+Moreilândia,14,Granito
+Moreno,29,São Lourenço da Mata
+Moreno,51,Cabo de Santo Agostinho
+Moreno,35,Jaboatão dos Guararapes
+Moreno,24,Vitória de Santo Antão
+Nazaré da Mata,21,Aliança
+Nazaré da Mata,39,Condado
+Nazaré da Mata,27,Itaquitinga
+Nazaré da Mata,10,Tracunhaém
+Nazaré da Mata,14,Carpina
+Nazaré da Mata,4,Buenos Aires
+Olinda,9,Paulista
+Olinda,11,Recife
+Orobó,7,Bom Jardim
+Orobó,38,São Vicente Ferrer
+Orobó,19,Machados
+Orobó,22,Casinhas
+Orocó,117,Parnamirim
+Orocó,39,Cabrobó
+Orocó,37,Santa Maria da Boa Vista
+Ouricuri,61,Araripina
+Ouricuri,26,Trindade
+Ouricuri,33,Ipubi
+Ouricuri,93,Santa Filomena
+Ouricuri,21,Bodocó
+Ouricuri,61,Parnamirim
+Palmares,64,Bonito
+Palmares,14,Joaquim Nabuco
+Palmares,18,Xexéu
+Palmares,10,Água Preta
+Palmares,21,Catende
+Palmeirina,28,São João
+Palmeirina,17,Angelim
+Palmeirina,24,Correntes
+Palmeirina,30,Canhotinho
+Palmeirina,40,Garanhuns
+Panelas,44,Altinho
+Panelas,22,Quipapá
+Panelas,21,Jurema
+Panelas,22,Lagoa dos Gatos
+Panelas,15,Cupira
+Panelas,32,São Benedito do Sul
+Panelas,63,Ibirajuba
+Paranatama,37,Caetés
+Paranatama,15,Saloá
+Paranatama,23,Garanhuns
+Paranatama,89,Pedra
+Parnamirim,64,Granito
+Parnamirim,58,Serrita
+Parnamirim,80,Bodocó
+Parnamirim,127,Santa Maria da Boa Vista
+Parnamirim,97,Orocó
+Parnamirim,36,Terra Nova
+Parnamirim,80,Cabrobó
+Parnamirim,62,Ouricuri
+Passira,11,Salgadinho
+Passira,19,Limoeiro
+Passira,46,Gravatá
+Passira,76,Pombos
+Passira,48,Bezerros
+Passira,31,Feira Nova
+Passira,44,Glória do Goitá
+Passira,18,Cumaru
+Paudalho,28,Camaragibe
+Paudalho,23,São Lourenço da Mata
+Paudalho,26,Glória do Goitá
+Paudalho,18,Tracunhaém
+Paudalho,59,Abreu e Lima
+Paudalho,66,Paulista
+Paudalho,19,Lagoa de Itaenga
+Paudalho,13,Carpina
+Paudalho,32,Araçoiaba
+Paudalho,15,Chã de Alegria
+Paulista,15,Abreu e Lima
+Paulista,22,Igarassu
+Paulista,9,Olinda
+Paulista,20,Recife
+Paulista,30,Camaragibe
+Paulista,64,Paudalho
+Pedra,19,Arcoverde
+Pedra,46,Pesqueira
+Pedra,99,Águas Belas
+Pedra,13,Venturosa
+Pedra,52,Caetés
+Pedra,88,Paranatama
+Pedra,42,Buíque
+Pesqueira,27,Poção
+Pesqueira,34,Venturosa
+Pesqueira,16,Alagoinha
+Pesqueira,17,Sanharó
+Pesqueira,74,Capoeiras
+Pesqueira,51,São Bento do Una
+Pesqueira,46,Pedra
+Pesqueira,43,Arcoverde
+Petrolândia,66,Floresta
+Petrolândia,26,Jatobá
+Petrolândia,24,Tacaratu
+Petrolina,119,Afrânio
+Petrolina,128,Dormentes
+Petrolina,53,Lagoa Grande
+Poção,27,Pesqueira
+Poção,39,Jataúba
+Pombos,79,Passira
+Pombos,59,Primavera
+Pombos,15,Vitória de Santo Antão
+Pombos,22,Chã Grande
+Pombos,23,Gravatá
+Primavera,17,Amaraji
+Primavera,24,Escada
+Primavera,37,Chã Grande
+Primavera,58,Pombos
+Primavera,29,Ribeirão
+Primavera,70,Vitória de Santo Antão
+Quipapá,22,Panelas
+Quipapá,14,São Benedito do Sul
+Quipapá,41,Jurema
+Quipapá,27,Canhotinho
+Quixaba,37,Flores
+Quixaba,15,Carnaíba
+Recife,18,Paulista
+Recife,19,Jaboatão dos Guararapes
+Recife,9,Olinda
+Recife,30,São Lourenço da Mata
+Recife,17,Camaragibe
+Riacho das Almas,31,Bezerros
+Riacho das Almas,26,Frei Miguelinho
+Riacho das Almas,31,Caruaru
+Riacho das Almas,39,Surubim
+Ribeirão,41,Amaraji
+Ribeirão,29,Primavera
+Ribeirão,26,Escada
+Ribeirão,13,Gameleira
+Ribeirão,41,Sirinhaém
+Ribeirão,45,Água Preta
+Ribeirão,28,Cortês
+Rio Formoso,13,Sirinhaém
+Rio Formoso,19,Tamandaré
+Rio Formoso,32,Gameleira
+Sairé,15,Bezerros
+Sairé,26,Bonito
+Sairé,14,Barra de Guabiraba
+Sairé,35,Gravatá
+Sairé,11,Camocim de São Félix
+Salgadinho,13,João Alfredo
+Salgadinho,11,Passira
+Salgadinho,29,Limoeiro
+Salgadinho,46,Surubim
+Salgueiro,97,Belém de São Francisco
+Salgueiro,28,Verdejante
+Salgueiro,63,Mirandiba
+Salgueiro,88,Carnaubeira da Penha
+Salgueiro,67,Cabrobó
+Salgueiro,43,Terra Nova
+Salgueiro,27,Serrita
+Salgueiro,52,Cedro
+Saloá,15,Paranatama
+Saloá,30,Iati
+Saloá,17,Terezinha
+Saloá,26,Bom Conselho
+Saloá,34,Garanhuns
+Sanharó,18,Belo Jardim
+Sanharó,17,Pesqueira
+Sanharó,35,São Bento do Una
+Santa Cruz da Baixa Verde,21,Calumbi
+Santa Cruz da Baixa Verde,7,Triunfo
+Santa Cruz da Baixa Verde,27,Serra Talhada
+Santa Cruz do Capibaribe,37,Jataúba
+Santa Cruz do Capibaribe,59,Brejo da Madre de Deus
+Santa Cruz do Capibaribe,26,Taquaritinga do Norte
+Santa Filomena,93,Ouricuri
+Santa Filomena,38,Dormentes
+Santa Maria da Boa Vista,56,Lagoa Grande
+Santa Maria da Boa Vista,127,Parnamirim
+Santa Maria da Boa Vista,37,Orocó
+Santa Maria do Cambucá,17,Frei Miguelinho
+Santa Maria do Cambucá,9,Vertente do Lério
+Santa Maria do Cambucá,4,Surubim
+Santa Maria do Cambucá,18,Vertentes
+Santa Terezinha,44,Tabira
+Santa Terezinha,38,São José do Egito
+Santa Terezinha,27,Brejinho
+São Benedito do Sul,52,Lagoa dos Gatos
+São Benedito do Sul,30,Maraial
+São Benedito do Sul,28,Jaqueira
+São Benedito do Sul,14,Quipapá
+São Benedito do Sul,32,Panelas
+São Bento do Una,25,Belo Jardim
+São Bento do Una,41,Tacaimbó
+São Bento do Una,32,Jupi
+São Bento do Una,21,Lajedo
+São Bento do Una,41,Jucati
+São Bento do Una,42,Cachoeirinha
+São Bento do Una,34,Sanharó
+São Bento do Una,51,Pesqueira
+São Bento do Una,33,Capoeiras
+São Caetano,20,Caruaru
+São Caetano,19,Tacaimbó
+São Caetano,49,Altinho
+São Caetano,23,Cachoeirinha
+São Caetano,68,Brejo da Madre de Deus
+São João,33,Jupi
+São João,41,Jucati
+São João,28,Palmeirina
+São João,11,Angelim
+São João,16,Garanhuns
+São Joaquim do Monte,10,Camocim de São Félix
+São Joaquim do Monte,29,Bezerros
+São Joaquim do Monte,43,Cupira
+São Joaquim do Monte,25,Bonito
+São Joaquim do Monte,29,Belém de Maria
+São Joaquim do Monte,27,Agrestina
+São José da Coroa Grande,12,Barreiros
+São José do Belmonte,60,Serra Talhada
+São José do Belmonte,35,Verdejante
+São José do Belmonte,42,Mirandiba
+São José do Egito,15,Brejinho
+São José do Egito,19,Itapetim
+São José do Egito,18,Tuparetama
+São José do Egito,43,Ingazeira
+São José do Egito,38,Santa Terezinha
+São José do Egito,35,Tabira
+São Lourenço da Mata,19,Paudalho
+São Lourenço da Mata,8,Camaragibe
+São Lourenço da Mata,30,Chã de Alegria
+São Lourenço da Mata,34,Jaboatão dos Guararapes
+São Lourenço da Mata,29,Moreno
+São Lourenço da Mata,31,Recife
+São Lourenço da Mata,50,Vitória de Santo Antão
+São Vicente Ferrer,7,Macaparana
+São Vicente Ferrer,19,Machados
+São Vicente Ferrer,27,Vicência
+São Vicente Ferrer,38,Orobó
+Serra Talhada,61,São José do Belmonte
+Serra Talhada,63,Mirandiba
+Serra Talhada,88,Carnaubeira da Penha
+Serra Talhada,96,Floresta
+Serra Talhada,26,Santa Cruz da Baixa Verde
+Serra Talhada,17,Calumbi
+Serra Talhada,87,Betânia
+Serrita,28,Salgueiro
+Serrita,32,Cedro
+Serrita,49,Granito
+Serrita,58,Parnamirim
+Serrita,49,Terra Nova
+Serrita,50,Moreilândia
+Sertânia,47,Iguaracy
+Sertânia,85,Ibimirim
+Sertânia,110,Tupanatinga
+Sertânia,84,Buíque
+Sertânia,59,Arcoverde
+Sertânia,43,Custódia
+Sirinhaém,28,Ipojuca
+Sirinhaém,54,Escada
+Sirinhaém,13,Rio Formoso
+Sirinhaém,31,Tamandaré
+Sirinhaém,41,Ribeirão
+Solidão,31,Afogados da Ingazeira
+Solidão,49,Carnaíba
+Solidão,16,Tabira
+Surubim,13,Vertente do Lério
+Surubim,27,Casinhas
+Surubim,39,Riacho das Almas
+Surubim,73,Cumaru
+Surubim,46,Salgadinho
+Surubim,36,João Alfredo
+Surubim,43,Bom Jardim
+Surubim,4,Santa Maria do Cambucá
+Surubim,13,Frei Miguelinho
+Tabira,17,Ingazeira
+Tabira,42,Iguaracy
+Tabira,44,Santa Terezinha
+Tabira,35,São José do Egito
+Tabira,23,Afogados da Ingazeira
+Tacaimbó,20,Belo Jardim
+Tacaimbó,19,São Caetano
+Tacaimbó,39,Cachoeirinha
+Tacaratu,89,Floresta
+Tacaratu,51,Inajá
+Tacaratu,24,Petrolândia
+Tacaratu,12,Jatobá
+Tamandaré,20,Rio Formoso
+Tamandaré,31,Sirinhaém
+Tamandaré,21,Barreiros
+Tamandaré,58,Água Preta
+Taquaritinga do Norte,81,Brejo da Madre de Deus
+Taquaritinga do Norte,65,Caruaru
+Taquaritinga do Norte,25,Toritama
+Taquaritinga do Norte,11,Vertentes
+Taquaritinga do Norte,26,Santa Cruz do Capibaribe
+Terezinha,29,Garanhuns
+Terezinha,17,Saloá
+Terezinha,9,Brejão
+Terezinha,18,Bom Conselho
+Terra Nova,44,Cabrobó
+Terra Nova,37,Parnamirim
+Terra Nova,49,Serrita
+Terra Nova,43,Salgueiro
+Timbaúba,32,Vicência
+Timbaúba,12,Ferreiros
+Timbaúba,17,Aliança
+Timbaúba,17,Camutanga
+Timbaúba,21,Macaparana
+Toritama,40,Caruaru
+Toritama,15,Vertentes
+Toritama,25,Taquaritinga do Norte
+Tracunhaém,9,Nazaré da Mata
+Tracunhaém,17,Paudalho
+Tracunhaém,26,Itaquitinga
+Tracunhaém,26,Araçoiaba
+Tracunhaém,6,Carpina
+Tracunhaém,58,Igarassu
+Trindade,35,Araripina
+Trindade,26,Ouricuri
+Trindade,20,Ipubi
+Triunfo,20,Flores
+Triunfo,24,Calumbi
+Triunfo,7,Santa Cruz da Baixa Verde
+Tupanatinga,110,Sertânia
+Tupanatinga,26,Itaíba
+Tupanatinga,26,Buíque
+Tupanatinga,65,Ibimirim
+Tuparetama,19,São José do Egito
+Tuparetama,44,Iguaracy
+Tuparetama,25,Ingazeira
+Venturosa,13,Pedra
+Venturosa,18,Alagoinha
+Venturosa,34,Pesqueira
+Venturosa,40,Caetés
+Verdejante,28,Salgueiro
+Verdejante,35,São José do Belmonte
+Verdejante,52,Mirandiba
+Vertente do Lério,23,Surubim
+Vertente do Lério,14,Santa Maria do Cambucá
+Vertente do Lério,19,Casinhas
+Vertentes,55,Caruaru
+Vertentes,15,Toritama
+Vertentes,18,Santa Maria do Cambucá
+Vertentes,16,Frei Miguelinho
+Vertentes,11,Taquaritinga do Norte
+Vicência,32,Timbaúba
+Vicência,34,Macaparana
+Vicência,51,Limoeiro
+Vicência,4,Buenos Aires
+Vicência,18,Aliança
+Vicência,27,São Vicente Ferrer
+Vicência,27,Machados
+Vicência,52,Bom Jardim
+Vitória de Santo Antão,22,Glória do Goitá
+Vitória de Santo Antão,28,Chã de Alegria
+Vitória de Santo Antão,36,Escada
+Vitória de Santo Antão,60,Primavera
+Vitória de Santo Antão,72,Cabo de Santo Agostinho
+Vitória de Santo Antão,23,Moreno
+Vitória de Santo Antão,50,São Lourenço da Mata
+Vitória de Santo Antão,12,Pombos
+Xexéu,19,Palmares
+Xexéu,27,Água Preta
+Xexéu,48,Maraial

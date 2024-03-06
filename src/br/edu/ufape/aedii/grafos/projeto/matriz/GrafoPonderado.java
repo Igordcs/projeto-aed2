@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class GrafoPonderado {
 	List<Vertice> vertices;
-	private int[][] matriz;
+	private double[][] matriz;
 
 	public GrafoPonderado(String nomeArquivo) {
 		vertices = new ArrayList<Vertice>();
@@ -17,7 +17,7 @@ public class GrafoPonderado {
 		try (Scanner sc = new Scanner(getClass().getResourceAsStream(nomeArquivo))) {
 			int qtdVertices = sc.nextInt();
 			int qtdArestas = sc.nextInt();
-			this.matriz = new int[qtdVertices][qtdVertices];
+			this.matriz = new double[qtdVertices][qtdVertices];
 			for (int i = 0; i < qtdVertices; i++) {
 				this.matriz[i][i] = 0;
 			}
@@ -32,7 +32,7 @@ public class GrafoPonderado {
 				String partes[] = linha.split(",");
 
 				String origem = partes[0];
-				int peso = Integer.parseInt(partes[1]);
+				double peso = Double.parseDouble(partes[1]);
 				String destino = partes[2];
 				adicionarAresta(origem, peso, destino);
 			}
@@ -58,7 +58,7 @@ public class GrafoPonderado {
 		return v;
 	}
 
-	public void adicionarAresta(String origem, int peso, String chegada) {
+	public void adicionarAresta(String origem, double peso, String chegada) {
 		int indexOrigem = getIndexVertice(origem);
 		int indexChegada = getIndexVertice(chegada);
 		this.matriz[indexOrigem][indexChegada] = peso;
@@ -82,7 +82,7 @@ public class GrafoPonderado {
 		return vertices.size();
 	}
 
-	public int[][] getMatriz() {
+	public double[][] getMatriz() {
 		return this.matriz;
 	}
 
