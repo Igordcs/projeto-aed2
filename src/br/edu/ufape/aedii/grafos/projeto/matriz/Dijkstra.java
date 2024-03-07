@@ -18,20 +18,25 @@ public class Dijkstra {
 		this.alcanceSinal = alcanceSinal;
 	}
 
-	// vai calcular a menor distancia a partir de um vértice origem a todos outros vértices
+	public void inicializarVertices(GrafoPonderado gp) {
+		for (Vertice v: gp.vertices) {
+			v.distanciaAcumulada = Double.POSITIVE_INFINITY;
+			v.visitado = false;
+			v.anterior = null;
+		}
+	}
+	
 	public void gerarCaminho(GrafoPonderado gp, Vertice origem) {
+		inicializarVertices(gp);
 		origem.distanciaAcumulada = 0;
-		// criar fila de prioridade com o nó origem
 		PriorityQueue<Vertice> filaVertices = new PriorityQueue<Vertice>();
 		filaVertices.add(origem);
-
+		
 		while (!filaVertices.isEmpty()) {
-			// retira o no com menor distancia (primeiro)
 			Vertice verticeAux = filaVertices.poll();
 			verticeAux.visitado = true;
 			List<Vertice> adjacentes = gp.getVerticesAdjacentes(verticeAux.nome);
 
-			// percorre por todas arestas adjacentes
 			for (Vertice vizinho : adjacentes) {
 				double custo = gp.getMatriz()[gp.getIndexVertice(verticeAux.nome)][gp.getIndexVertice(vizinho.nome)];
 				if (!vizinho.visitado && (verticeAux.distanciaAcumulada + custo) < vizinho.distanciaAcumulada) {
@@ -76,7 +81,7 @@ public class Dijkstra {
 		return vertices;
 	}
 
-	public void imprimirResultados(List<Vertice> caminho, double precoFibra) {
+	public void imprimirResultados(List<Vertice> caminho) {
 		Vertice v = caminho.get(caminho.size() - 1);
 		double custoFibra = v.distanciaAcumulada * precoFibra;
 		double custoAmplificadores = precoAmplificador * numAmplificadores;
@@ -89,5 +94,6 @@ public class Dijkstra {
 		System.out.printf("- Fibra óptica: R$ %.2f\n", custoFibra);
 		System.out.printf("- Amplificadores (%d): R$ %.2f\n", numAmplificadores, custoAmplificadores);
 		System.out.printf("- Total: R$ %.2f\n", custoTotal);
+		System.out.println();
 	}
 }

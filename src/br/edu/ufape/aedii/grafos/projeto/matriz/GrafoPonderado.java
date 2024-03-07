@@ -24,8 +24,7 @@ public class GrafoPonderado {
 			sc.nextLine();
 			for (int i = 0; i < qtdVertices; i++) {
 				String nome = sc.nextLine();
-				Vertice v = new Vertice(nome);
-				vertices.add(v);
+				adicionarVertice(nome);
 			}
 			for (int i = 0; i < qtdArestas; i++) {
 				String linha = sc.nextLine();
@@ -43,19 +42,22 @@ public class GrafoPonderado {
 
 	public Vertice getVertice(String nome) {
 		for (Vertice vertice : vertices)
-			if (vertice.nome.equals(nome))
+			if (vertice.nome.equalsIgnoreCase(nome))
 				return vertice;
 		return null;
+	}
+
+	public void imprimirVertices() {
+		for (Vertice vertice : vertices)
+			System.out.println(vertice);
 	}
 
 	public int getIndexVertice(String nome) {
 		return vertices.indexOf(getVertice(nome));
 	}
 
-	public Vertice adicionarVertice(String nome) {
-		Vertice v = new Vertice(nome);
-		vertices.add(v);
-		return v;
+	public void adicionarVertice(String nome) {
+		vertices.add(new Vertice(nome));
 	}
 
 	public void adicionarAresta(String origem, double peso, String chegada) {
@@ -74,8 +76,9 @@ public class GrafoPonderado {
 					adjacentes.add(vertices.get(i));
 				}
 			}
+			return adjacentes;
 		}
-		return adjacentes;
+		return null;
 	}
 
 	public int getNumeroVertices() {

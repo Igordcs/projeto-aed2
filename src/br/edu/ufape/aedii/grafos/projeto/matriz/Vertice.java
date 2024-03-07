@@ -8,7 +8,7 @@ public class Vertice implements Comparable<Vertice> {
 
 	public Vertice(String nome) {
 		this.nome = nome;
-		this.distanciaAcumulada = Integer.MAX_VALUE;
+		this.distanciaAcumulada = Double.POSITIVE_INFINITY;
 		this.visitado = false;
 		this.anterior = null;
 	}

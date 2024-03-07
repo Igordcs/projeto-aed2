@@ -1,60 +1,60 @@
 182 872
 Abreu e Lima
 Afogados da Ingazeira
-Afrânio
+Afranio
 Agrestina
-Água Preta
-Águas Belas
+Agua Preta
+Aguas Belas
 Alagoinha
-Aliança
+Alianca
 Altinho
 Amaraji
 Angelim
-Araçoiaba
+Aracoiaba
 Araripina
 Arcoverde
 Barra de Guabiraba
 Barreiros
-Belém de Maria
-Belém de São Francisco
+Belem de Maria
+Belem de Sao Francisco
 Belo Jardim
-Betânia
+Betania
 Bezerros
-Bodocó
+Bodoco
 Bom Conselho
 Bom Jardim
 Bonito
-Brejão
+Brejao
 Brejinho
 Brejo da Madre de Deus
 Buenos Aires
-Buíque
+Buique
 Cabo de Santo Agostinho
-Cabrobó
+Cabrobo
 Cachoeirinha
-Caetés
-Calçado
+Caetes
+Calcado
 Calumbi
 Camaragibe
-Camocim de São Félix
+Camocim de Sao Felix
 Camutanga
 Canhotinho
 Capoeiras
-Carnaíba
+Carnaiba
 Carnaubeira da Penha
 Carpina
 Caruaru
 Casinhas
 Catende
 Cedro
-Chã de Alegria
-Chã Grande
+Cha de Alegria
+Cha Grande
 Condado
 Correntes
-Cortês
+Cortes
 Cumaru
 Cupira
-Custódia
+Custodia
 Dormentes
 Escada
 Exu
@@ -65,30 +65,30 @@ Floresta
 Frei Miguelinho
 Gameleira
 Garanhuns
-Glória do Goitá
+Gloria do Goita
 Goiana
 Granito
-Gravatá
+Gravata
 Iati
 Ibimirim
 Ibirajuba
 Igarassu
 Iguaracy
-Inajá
+Inaja
 Ingazeira
 Ipojuca
 Ipubi
 Itacuruba
-Itaíba
-Itambé
+Itaiba
+Itambe
 Itapetim
 Itapissuma
 Itaquitinga
-Jaboatão dos Guararapes
+Jaboatao dos Guararapes
 Jaqueira
-Jataúba
-Jatobá
-João Alfredo
+Jatauba
+Jatoba
+Joao Alfredo
 Joaquim Nabuco
 Jucati
 Jupi
@@ -105,12 +105,12 @@ Machados
 Manari
 Maraial
 Mirandiba
-Moreilândia
+Moreilandia
 Moreno
-Nazaré da Mata
+Nazare da Mata
 Olinda
-Orobó
-Orocó
+Orobo
+Oroco
 Ouricuri
 Palmares
 Palmeirina
@@ -122,280 +122,280 @@ Paudalho
 Paulista
 Pedra
 Pesqueira
-Petrolândia
+Petrolandia
 Petrolina
-Poção
+Pocao
 Pombos
 Primavera
-Quipapá
+Quipapa
 Quixaba
 Recife
 Riacho das Almas
-Ribeirão
+Ribeirao
 Rio Formoso
-Sairé
+Saire
 Salgadinho
 Salgueiro
-Saloá
-Sanharó
+Saloa
+Sanharo
 Santa Cruz da Baixa Verde
 Santa Cruz do Capibaribe
 Santa Filomena
 Santa Maria da Boa Vista
-Santa Maria do Cambucá
+Santa Maria do Cambuca
 Santa Terezinha
-São Benedito do Sul
-São Bento do Una
-São Caetano
-São João
-São Joaquim do Monte
-São José da Coroa Grande
-São José do Belmonte
-São José do Egito
-São Lourenço da Mata
-São Vicente Ferrer
+Sao Benedito do Sul
+Sao Bento do Una
+Sao Caetano
+Sao Joao
+Sao Joaquim do Monte
+Sao Jose da Coroa Grande
+Sao Jose do Belmonte
+Sao Jose do Egito
+Sao Lourenco da Mata
+Sao Vicente Ferrer
 Serra Talhada
 Serrita
-Sertânia
-Sirinhaém
-Solidão
+Sertania
+Sirinhaem
+Solidao
 Surubim
 Tabira
-Tacaimbó
+Tacaimbo
 Tacaratu
-Tamandaré
+Tamandare
 Taquaritinga do Norte
 Terezinha
 Terra Nova
-Timbaúba
+Timbauba
 Toritama
-Tracunhaém
+Tracunhaem
 Trindade
 Triunfo
 Tupanatinga
 Tuparetama
 Venturosa
 Verdejante
-Vertente do Lério
+Vertente do Lerio
 Vertentes
-Vicência
-Vitória de Santo Antão
-Xexéu
+Vicencia
+Vitoria de Santo Antao
+Xexeu
 Abreu e Lima,15.8,Paulista
 Abreu e Lima,7.4,Igarassu
 Abreu e Lima,56.8,Paudalho
-Abreu e Lima,40.4,Araçoiaba
-Afogados da Ingazeira,31.7,Solidão
-Afogados da Ingazeira,22.1,Carnaíba
+Abreu e Lima,40.4,Aracoiaba
+Afogados da Ingazeira,31.7,Solidao
+Afogados da Ingazeira,22.1,Carnaiba
 Afogados da Ingazeira,23.1,Tabira
 Afogados da Ingazeira,19.3,Iguaracy
-Afrânio,31.5,Dormentes
-Afrânio,119,Petrolina
+Afranio,31.5,Dormentes
+Afranio,119,Petrolina
 Agrestina,20.8,Caruaru
 Agrestina,50.7,Bezerros
-Agrestina,26.6,São Joaquim do Monte
+Agrestina,26.6,Sao Joaquim do Monte
 Agrestina,15,Altinho
 Agrestina,18.3,Cupira
-Água Preta,43.3,Ribeirão
-Água Preta,45.9,Barreiros
-Água Preta,40.5,Gameleira
-Água Preta,58.3,Tamandaré
-Água Preta,14,Palmares
-Água Preta,28.1,Xexéu
-Água Preta,19,Joaquim Nabuco
-Águas Belas,89,Buíque
-Águas Belas,99.2,Pedra
-Águas Belas,39.3,Iati
-Águas Belas,39,Itaíba
+Agua Preta,43.3,Ribeirao
+Agua Preta,45.9,Barreiros
+Agua Preta,40.5,Gameleira
+Agua Preta,58.3,Tamandare
+Agua Preta,14,Palmares
+Agua Preta,28.1,Xexeu
+Agua Preta,19,Joaquim Nabuco
+Aguas Belas,89,Buique
+Aguas Belas,99.2,Pedra
+Aguas Belas,39.3,Iati
+Aguas Belas,39,Itaiba
 Alagoinha,17.6,Venturosa
 Alagoinha,16.1,Pesqueira
-Aliança,25.8,Ferreiros
-Aliança,39.3,Itambé
-Aliança,21,Nazaré da Mata
-Aliança,17.6,Condado
-Aliança,17.6,Vicência
-Aliança,16.7,Timbaúba
+Alianca,25.8,Ferreiros
+Alianca,39.3,Itambe
+Alianca,21,Nazare da Mata
+Alianca,17.6,Condado
+Alianca,17.6,Vicencia
+Alianca,16.7,Timbauba
 Altinho,15,Agrestina
 Altinho,32.5,Caruaru
-Altinho,48.6,São Caetano
+Altinho,48.6,Sao Caetano
 Altinho,17.8,Ibirajuba
 Altinho,44,Panelas
 Altinho,33.3,Cupira
 Altinho,22,Cachoeirinha
-Amaraji,20.7,Chã Grande
-Amaraji,41.4,Ribeirão
+Amaraji,20.7,Cha Grande
+Amaraji,41.4,Ribeirao
 Amaraji,16.7,Primavera
-Amaraji,29.2,Cortês
-Amaraji,38.9,Gravatá
+Amaraji,29.2,Cortes
+Amaraji,38.9,Gravata
 Angelim,42.4,Jupi
 Angelim,16.6,Palmeirina
 Angelim,13.4,Canhotinho
-Angelim,11,São João
-Araçoiaba,38.3,Abreu e Lima
-Araçoiaba,22.5,Itaquitinga
-Araçoiaba,30.8,Paudalho
-Araçoiaba,31.8,Igarassu
-Araçoiaba,24.7,Carpina
-Araçoiaba,26,Tracunhaém
+Angelim,11,Sao Joao
+Aracoiaba,38.3,Abreu e Lima
+Aracoiaba,22.5,Itaquitinga
+Aracoiaba,30.8,Paudalho
+Aracoiaba,31.8,Igarassu
+Aracoiaba,24.7,Carpina
+Aracoiaba,26,Tracunhaem
 Araripina,60.5,Ouricuri
 Araripina,53.5,Ipubi
 Araripina,34.7,Trindade
-Arcoverde,27.3,Buíque
+Arcoverde,27.3,Buique
 Arcoverde,18.9,Pedra
 Arcoverde,43.2,Pesqueira
-Arcoverde,58.6,Sertânia
-Barra de Guabiraba,55.5,Gravatá
-Barra de Guabiraba,14.2,Sairé
+Arcoverde,58.6,Sertania
+Barra de Guabiraba,55.5,Gravata
+Barra de Guabiraba,14.2,Saire
 Barra de Guabiraba,15.9,Bonito
-Barra de Guabiraba,18,Cortês
-Barreiros,20.7,Tamandaré
-Barreiros,12.1,São José da Coroa Grande
-Barreiros,46,Água Preta
-Belém de Maria,34.6,Bonito
-Belém de Maria,29.2,São Joaquim do Monte
-Belém de Maria,14.5,Lagoa dos Gatos
-Belém de Maria,16,Cupira
-Belém de Maria,31.8,Jaqueira
-Belém de São Francisco,50.7,Cabrobó
-Belém de São Francisco,96.9,Salgueiro
-Belém de São Francisco,90.7,Carnaubeira da Penha
-Belém de São Francisco,46.2,Floresta
-Belém de São Francisco,38.3,Itacuruba
-Belo Jardim,61.1,Jataúba
+Barra de Guabiraba,18,Cortes
+Barreiros,20.7,Tamandare
+Barreiros,12.1,Sao Jose da Coroa Grande
+Barreiros,46,Agua Preta
+Belem de Maria,34.6,Bonito
+Belem de Maria,29.2,Sao Joaquim do Monte
+Belem de Maria,14.5,Lagoa dos Gatos
+Belem de Maria,16,Cupira
+Belem de Maria,31.8,Jaqueira
+Belem de Sao Francisco,50.7,Cabrobo
+Belem de Sao Francisco,96.9,Salgueiro
+Belem de Sao Francisco,90.7,Carnaubeira da Penha
+Belem de Sao Francisco,46.2,Floresta
+Belem de Sao Francisco,38.3,Itacuruba
+Belo Jardim,61.1,Jatauba
 Belo Jardim,36.4,Brejo da Madre de Deus
-Belo Jardim,25.5,São Bento do Una
-Belo Jardim,20.1,Tacaimbó
-Belo Jardim,17.7,Sanharó
-Betânia,62.4,Flores
-Betânia,85.5,Calumbi
-Betânia,85.9,Floresta
-Betânia,58.4,Custódia
-Betânia,88.4,Serra Talhada
+Belo Jardim,25.5,Sao Bento do Una
+Belo Jardim,20.1,Tacaimbo
+Belo Jardim,17.7,Sanharo
+Betania,62.4,Flores
+Betania,85.5,Calumbi
+Betania,85.9,Floresta
+Betania,58.4,Custodia
+Betania,88.4,Serra Talhada
 Bezerros,40,Cumaru
 Bezerros,48.2,Passira
-Bezerros,28.9,São Joaquim do Monte
+Bezerros,28.9,Sao Joaquim do Monte
 Bezerros,49.7,Agrestina
-Bezerros,22.2,Gravatá
-Bezerros,14.7,Sairé
-Bezerros,18.3,Camocim de São Félix
+Bezerros,22.2,Gravata
+Bezerros,14.7,Saire
+Bezerros,18.3,Camocim de Sao Felix
 Bezerros,30.7,Riacho das Almas
 Bezerros,31.3,Caruaru
-Bodocó,80.4,Parnamirim
-Bodocó,40.1,Exu
-Bodocó,42.4,Granito
-Bodocó,51.1,Ipubi
-Bodocó,20.6,Ouricuri
+Bodoco,80.4,Parnamirim
+Bodoco,40.1,Exu
+Bodoco,42.4,Granito
+Bodoco,51.1,Ipubi
+Bodoco,20.6,Ouricuri
 Bom Conselho,17.7,Terezinha
-Bom Conselho,26,Saloá
+Bom Conselho,26,Saloa
 Bom Conselho,26.1,Iati
 Bom Conselho,30.8,Lagoa do Ouro
-Bom Jardim,7,Orobó
+Bom Jardim,7,Orobo
 Bom Jardim,34.1,Machados
-Bom Jardim,12.8,João Alfredo
-Bom Jardim,52.1,Vicência
+Bom Jardim,12.8,Joao Alfredo
+Bom Jardim,52.1,Vicencia
 Bom Jardim,25.6,Limoeiro
 Bom Jardim,40.7,Surubim
 Bom Jardim,28.5,Casinhas
-Bonito,14.9,Camocim de São Félix
-Bonito,26.1,Sairé
+Bonito,14.9,Camocim de Sao Felix
+Bonito,26.1,Saire
 Bonito,15.8,Barra de Guabiraba
 Bonito,64.5,Palmares
 Bonito,44.1,Catende
-Bonito,33.7,Cortês
+Bonito,33.7,Cortes
 Bonito,75.7,Joaquim Nabuco
-Bonito,24.8,São Joaquim do Monte
-Bonito,34.6,Belém de Maria
-Brejão,21.9,Garanhuns
-Brejão,33.6,Lagoa do Ouro
-Brejão,8.8,Terezinha
-Brejinho,15.1,São José do Egito
+Bonito,24.8,Sao Joaquim do Monte
+Bonito,34.6,Belem de Maria
+Brejao,21.9,Garanhuns
+Brejao,33.6,Lagoa do Ouro
+Brejao,8.8,Terezinha
+Brejinho,15.1,Sao Jose do Egito
 Brejinho,15.5,Itapetim
 Brejinho,27.1,Santa Terezinha
 Brejo da Madre de Deus,60,Santa Cruz do Capibaribe
 Brejo da Madre de Deus,82,Taquaritinga do Norte
 Brejo da Madre de Deus,36.4,Belo Jardim
-Brejo da Madre de Deus,67.7,São Caetano
+Brejo da Madre de Deus,67.7,Sao Caetano
 Brejo da Madre de Deus,70.6,Caruaru
-Brejo da Madre de Deus,24.7,Jataúba
-Buenos Aires,4,Vicência
+Brejo da Madre de Deus,24.7,Jatauba
+Buenos Aires,4,Vicencia
 Buenos Aires,4,Carpina
-Buenos Aires,4,Nazaré da Mata
+Buenos Aires,4,Nazare da Mata
 Buenos Aires,4,Limoeiro
-Buíque,26.5,Tupanatinga
-Buíque,27.6,Arcoverde
-Buíque,83.7,Sertânia
-Buíque,42.3,Pedra
-Buíque,89.1,Águas Belas
-Buíque,51.8,Itaíba
+Buique,26.5,Tupanatinga
+Buique,27.6,Arcoverde
+Buique,83.7,Sertania
+Buique,42.3,Pedra
+Buique,89.1,Aguas Belas
+Buique,51.8,Itaiba
 Cabo de Santo Agostinho,17.3,Ipojuca
-Cabo de Santo Agostinho,21.6,Jaboatão dos Guararapes
+Cabo de Santo Agostinho,21.6,Jaboatao dos Guararapes
 Cabo de Santo Agostinho,27.2,Escada
-Cabo de Santo Agostinho,60.2,Vitória de Santo Antão
+Cabo de Santo Agostinho,60.2,Vitoria de Santo Antao
 Cabo de Santo Agostinho,53.8,Moreno
-Cabrobó,44.2,Terra Nova
-Cabrobó,68,Salgueiro
-Cabrobó,50.7,Belém de São Francisco
-Cabrobó,39.5,Orocó
-Cabrobó,80.4,Parnamirim
+Cabrobo,44.2,Terra Nova
+Cabrobo,68,Salgueiro
+Cabrobo,50.7,Belem de Sao Francisco
+Cabrobo,39.5,Oroco
+Cabrobo,80.4,Parnamirim
 Cachoeirinha,22.1,Altinho
-Cachoeirinha,39.1,Tacaimbó
-Cachoeirinha,22.7,São Caetano
+Cachoeirinha,39.1,Tacaimbo
+Cachoeirinha,22.7,Sao Caetano
 Cachoeirinha,29.7,Ibirajuba
 Cachoeirinha,21.8,Lajedo
-Cachoeirinha,41.7,São Bento do Una
-Caetés,39.5,Venturosa
-Caetés,5.9,Capoeiras
-Caetés,36.3,Paranatama
-Caetés,21.4,Garanhuns
-Caetés,52.1,Pedra
-Calçado,12.4,Jupi
-Calçado,12,Lajedo
-Calçado,32.2,Canhotinho
+Cachoeirinha,41.7,Sao Bento do Una
+Caetes,39.5,Venturosa
+Caetes,5.9,Capoeiras
+Caetes,36.3,Paranatama
+Caetes,21.4,Garanhuns
+Caetes,52.1,Pedra
+Calcado,12.4,Jupi
+Calcado,12,Lajedo
+Calcado,32.2,Canhotinho
 Calumbi,18.6,Serra Talhada
-Calumbi,85.4,Betânia
+Calumbi,85.4,Betania
 Calumbi,23.9,Triunfo
 Calumbi,20.6,Santa Cruz da Baixa Verde
 Calumbi,22.9,Flores
 Camaragibe,19.1,Recife
-Camaragibe,7.1,São Lourenço da Mata
+Camaragibe,7.1,Sao Lourenco da Mata
 Camaragibe,31.2,Paulista
 Camaragibe,28.2,Paudalho
-Camocim de São Félix,11.5,Sairé
-Camocim de São Félix,18.4,Bezerros
-Camocim de São Félix,10.4,São Joaquim do Monte
-Camocim de São Félix,14.9,Bonito
+Camocim de Sao Felix,11.5,Saire
+Camocim de Sao Felix,18.4,Bezerros
+Camocim de Sao Felix,10.4,Sao Joaquim do Monte
+Camocim de Sao Felix,14.9,Bonito
 Camutanga,6.6,Ferreiros
-Camutanga,22.8,Itambé
-Camutanga,17.7,Timbaúba
+Camutanga,22.8,Itambe
+Camutanga,17.7,Timbauba
 Canhotinho,33.3,Lajedo
 Canhotinho,39,Jurema
 Canhotinho,29.8,Palmeirina
-Canhotinho,27.1,Quipapá
-Canhotinho,32,Calçado
+Canhotinho,27.1,Quipapa
+Canhotinho,32,Calcado
 Canhotinho,13.2,Angelim
-Capoeiras,33.3,São Bento do Una
+Capoeiras,33.3,Sao Bento do Una
 Capoeiras,27.3,Garanhuns
 Capoeiras,18,Jucati
-Capoeiras,6,Caetés
+Capoeiras,6,Caetes
 Capoeiras,74,Pesqueira
-Carnaíba,49.3,Solidão
-Carnaíba,75.1,Custódia
-Carnaíba,22.2,Afogados da Ingazeira
-Carnaíba,24.2,Flores
-Carnaíba,14.5,Quixaba
+Carnaiba,49.3,Solidao
+Carnaiba,75.1,Custodia
+Carnaiba,22.2,Afogados da Ingazeira
+Carnaiba,24.2,Flores
+Carnaiba,14.5,Quixaba
 Carnaubeira da Penha,25.4,Mirandiba
 Carnaubeira da Penha,87.3,Salgueiro
-Carnaubeira da Penha,90.9,Belém de São Francisco
+Carnaubeira da Penha,90.9,Belem de Sao Francisco
 Carnaubeira da Penha,44.8,Floresta
 Carnaubeira da Penha,87.7,Serra Talhada
-Carpina,6,Tracunhaém
-Carpina,13.7,Nazaré da Mata
+Carpina,6,Tracunhaem
+Carpina,13.7,Nazare da Mata
 Carpina,4,Buenos Aires
 Carpina,17,Lagoa de Itaenga
 Carpina,7.2,Lagoa do Carro
 Carpina,12.2,Paudalho
 Carpina,26.1,Limoeiro
-Carpina,25,Araçoiaba
+Carpina,25,Aracoiaba
 Caruaru,36.8,Toritama
 Caruaru,51.9,Vertentes
 Caruaru,61.6,Taquaritinga do Norte
@@ -405,10 +405,10 @@ Caruaru,34.2,Bezerros
 Caruaru,44.5,Frei Miguelinho
 Caruaru,26.5,Riacho das Almas
 Caruaru,68.3,Brejo da Madre de Deus
-Caruaru,19.2,São Caetano
+Caruaru,19.2,Sao Caetano
 Casinhas,27.7,Surubim
-Casinhas,19.9,Vertente do Lério
-Casinhas,21.7,Orobó
+Casinhas,19.9,Vertente do Lerio
+Casinhas,21.7,Orobo
 Casinhas,28.4,Bom Jardim
 Catende,44.1,Bonito
 Catende,21.3,Maraial
@@ -416,131 +416,131 @@ Catende,21.5,Palmares
 Catende,14.6,Jaqueira
 Cedro,52.1,Salgueiro
 Cedro,31.6,Serrita
-Chã de Alegria,15.5,Paudalho
-Chã de Alegria,10.8,Glória do Goitá
-Chã de Alegria,33.2,São Lourenço da Mata
-Chã de Alegria,27.1,Vitória de Santo Antão
-Chã Grande,18.4,Gravatá
-Chã Grande,20.7,Amaraji
-Chã Grande,37.3,Primavera
-Chã Grande,20.9,Pombos
-Condado,24.4,Itambé
+Cha de Alegria,15.5,Paudalho
+Cha de Alegria,10.8,Gloria do Goita
+Cha de Alegria,33.2,Sao Lourenco da Mata
+Cha de Alegria,27.1,Vitoria de Santo Antao
+Cha Grande,18.4,Gravata
+Cha Grande,20.7,Amaraji
+Cha Grande,37.3,Primavera
+Cha Grande,20.9,Pombos
+Condado,24.4,Itambe
 Condado,15.2,Itaquitinga
 Condado,11.1,Goiana
-Condado,17.6,Aliança
-Condado,38.9,Nazaré da Mata
+Condado,17.6,Alianca
+Condado,38.9,Nazare da Mata
 Correntes,44.8,Garanhuns
 Correntes,24.1,Palmeirina
 Correntes,16,Lagoa do Ouro
-Cortês,73.3,Gravatá
-Cortês,57.8,Joaquim Nabuco
-Cortês,29.2,Amaraji
-Cortês,28.2,Ribeirão
-Cortês,18,Barra de Guabiraba
-Cortês,33.7,Bonito
+Cortes,73.3,Gravata
+Cortes,57.8,Joaquim Nabuco
+Cortes,29.2,Amaraji
+Cortes,28.2,Ribeirao
+Cortes,18,Barra de Guabiraba
+Cortes,33.7,Bonito
 Cumaru,72.7,Surubim
 Cumaru,17.6,Passira
 Cumaru,40,Bezerros
 Cupira,18.7,Agrestina
 Cupira,33.7,Altinho
-Cupira,43.6,São Joaquim do Monte
+Cupira,43.6,Sao Joaquim do Monte
 Cupira,10,Lagoa dos Gatos
-Cupira,15.5,Belém de Maria
+Cupira,15.5,Belem de Maria
 Cupira,12.8,Panelas
-Custódia,58.5,Betânia
-Custódia,50.9,Flores
-Custódia,74.1,Carnaíba
-Custódia,34.7,Iguaracy
-Custódia,42.9,Sertânia
-Custódia,107,Ibimirim
-Custódia,161,Floresta
-Dormentes,31.5,Afrânio
+Custodia,58.5,Betania
+Custodia,50.9,Flores
+Custodia,74.1,Carnaiba
+Custodia,34.7,Iguaracy
+Custodia,42.9,Sertania
+Custodia,107,Ibimirim
+Custodia,161,Floresta
+Dormentes,31.5,Afranio
 Dormentes,127,Petrolina
 Dormentes,121,Lagoa Grande
 Dormentes,38.4,Santa Filomena
 Escada,27.5,Cabo de Santo Agostinho
-Escada,35.8,Vitória de Santo Antão
-Escada,26.8,Ribeirão
-Escada,52.5,Sirinhaém
+Escada,35.8,Vitoria de Santo Antao
+Escada,26.8,Ribeirao
+Escada,52.5,Sirinhaem
 Escada,22.5,Primavera
 Escada,29.5,Ipojuca
-Exu,39.9,Bodocó
+Exu,39.9,Bodoco
 Exu,43.2,Granito
-Exu,31,Moreilândia
+Exu,31,Moreilandia
 Feira Nova,12,Limoeiro
-Feira Nova,14.8,Glória do Goitá
+Feira Nova,14.8,Gloria do Goita
 Feira Nova,31.2,Passira
 Feira Nova,14.2,Lagoa de Itaenga
-Ferreiros,12.6,Timbaúba
+Ferreiros,12.6,Timbauba
 Ferreiros,6.6,Camutanga
-Ferreiros,25.4,Itambé
-Ferreiros,25.9,Aliança
-Flores,62.5,Betânia
-Flores,24.2,Carnaíba
-Flores,50.9,Custódia
+Ferreiros,25.4,Itambe
+Ferreiros,25.9,Alianca
+Flores,62.5,Betania
+Flores,24.2,Carnaiba
+Flores,50.9,Custodia
 Flores,19.6,Triunfo
 Flores,23.1,Calumbi
 Flores,37,Quixaba
 Floresta,90.5,Serra Talhada
-Floresta,86,Betânia
-Floresta,161,Custódia
+Floresta,86,Betania
+Floresta,161,Custodia
 Floresta,69.9,Mirandiba
-Floresta,130,Inajá
+Floresta,130,Inaja
 Floresta,89,Tacaratu
-Floresta,65.7,Petrolândia
+Floresta,65.7,Petrolandia
 Floresta,103,Ibimirim
 Floresta,44.6,Carnaubeira da Penha
-Floresta,46.1,Belém de São Francisco
+Floresta,46.1,Belem de Sao Francisco
 Floresta,31.8,Itacuruba
 Frei Miguelinho,13,Surubim
 Frei Miguelinho,63.4,Caruaru
-Frei Miguelinho,17.1,Santa Maria do Cambucá
+Frei Miguelinho,17.1,Santa Maria do Cambuca
 Frei Miguelinho,26.2,Riacho das Almas
 Frei Miguelinho,15.6,Vertentes
-Gameleira,11.6,Ribeirão
-Gameleira,42.2,Água Preta
+Gameleira,11.6,Ribeirao
+Gameleira,42.2,Agua Preta
 Gameleira,32.6,Rio Formoso
 Garanhuns,32.3,Jucati
 Garanhuns,26.9,Capoeiras
-Garanhuns,20.9,Caetés
-Garanhuns,23.2,Brejão
+Garanhuns,20.9,Caetes
+Garanhuns,23.2,Brejao
 Garanhuns,30.2,Terezinha
 Garanhuns,45.9,Correntes
-Garanhuns,16.4,São João
+Garanhuns,16.4,Sao Joao
 Garanhuns,41.1,Palmeirina
-Garanhuns,33.8,Saloá
+Garanhuns,33.8,Saloa
 Garanhuns,22.6,Paranatama
 Garanhuns,35.8,Lagoa do Ouro
-Glória do Goitá,14.9,Feira Nova
-Glória do Goitá,10.4,Lagoa de Itaenga
-Glória do Goitá,25.8,Paudalho
-Glória do Goitá,20.5,Vitória de Santo Antão
-Glória do Goitá,10.8,Chã de Alegria
-Glória do Goitá,44.3,Passira
+Gloria do Goita,14.9,Feira Nova
+Gloria do Goita,10.4,Lagoa de Itaenga
+Gloria do Goita,25.8,Paudalho
+Gloria do Goita,20.5,Vitoria de Santo Antao
+Gloria do Goita,10.8,Cha de Alegria
+Gloria do Goita,44.3,Passira
 Goiana,11.1,Condado
 Goiana,25.8,Itaquitinga
-Goiana,24.6,Itambé
+Goiana,24.6,Itambe
 Goiana,38.4,Igarassu
 Goiana,36.8,Itapissuma
 Granito,43.2,Exu
 Granito,64.4,Parnamirim
 Granito,49.2,Serrita
-Granito,42.2,Bodocó
-Granito,13.6,Moreilândia
-Gravatá,48.8,Passira
-Gravatá,24.7,Bezerros
-Gravatá,22.2,Pombos
-Gravatá,17.2,Chã Grande
-Gravatá,37.7,Amaraji
-Gravatá,76.2,Cortês
-Gravatá,58.4,Barra de Guabiraba
-Gravatá,37.6,Sairé
-Iati,30.2,Saloá
+Granito,42.2,Bodoco
+Granito,13.6,Moreilandia
+Gravata,48.8,Passira
+Gravata,24.7,Bezerros
+Gravata,22.2,Pombos
+Gravata,17.2,Cha Grande
+Gravata,37.7,Amaraji
+Gravata,76.2,Cortes
+Gravata,58.4,Barra de Guabiraba
+Gravata,37.6,Saire
+Iati,30.2,Saloa
 Iati,25.9,Bom Conselho
-Iati,39.1,Águas Belas
-Ibimirim,85.6,Sertânia
-Ibimirim,108,Custódia
-Ibimirim,52.5,Inajá
+Iati,39.1,Aguas Belas
+Ibimirim,85.6,Sertania
+Ibimirim,108,Custodia
+Ibimirim,52.5,Inaja
 Ibimirim,62.9,Manari
 Ibimirim,64.6,Tupanatinga
 Ibimirim,103,Floresta
@@ -550,224 +550,224 @@ Ibirajuba,23,Lajedo
 Ibirajuba,62.7,Panelas
 Ibirajuba,52.7,Jurema
 Igarassu,38,Goiana
-Igarassu,59.4,Tracunhaém
+Igarassu,59.4,Tracunhaem
 Igarassu,63.7,Itaquitinga
 Igarassu,23.7,Paulista
 Igarassu,8.4,Abreu e Lima
 Igarassu,8.4,Itapissuma
-Igarassu,33.4,Araçoiaba
+Igarassu,33.4,Aracoiaba
 Iguaracy,29.9,Ingazeira
 Iguaracy,43.8,Tuparetama
 Iguaracy,42.1,Tabira
-Iguaracy,34.6,Custódia
-Iguaracy,46.6,Sertânia
+Iguaracy,34.6,Custodia
+Iguaracy,46.6,Sertania
 Iguaracy,19.3,Afogados da Ingazeira
-Inajá,52.6,Ibimirim
-Inajá,31.4,Manari
-Inajá,50.7,Tacaratu
-Inajá,130,Floresta
+Inaja,52.6,Ibimirim
+Inaja,31.4,Manari
+Inaja,50.7,Tacaratu
+Inaja,130,Floresta
 Ingazeira,17.4,Tabira
-Ingazeira,43.4,São José do Egito
+Ingazeira,43.4,Sao Jose do Egito
 Ingazeira,29.9,Iguaracy
 Ingazeira,24.8,Tuparetama
 Ipojuca,18.4,Cabo de Santo Agostinho
-Ipojuca,26.7,Sirinhaém
+Ipojuca,26.7,Sirinhaem
 Ipojuca,28.4,Escada
 Ipubi,33,Ouricuri
-Ipubi,34.6,Bodocó
+Ipubi,34.6,Bodoco
 Ipubi,53.8,Araripina
 Ipubi,19.7,Trindade
-Itacuruba,38.5,Belém de São Francisco
+Itacuruba,38.5,Belem de Sao Francisco
 Itacuruba,31.7,Floresta
-Itaíba,25.8,Tupanatinga
-Itaíba,39.1,Águas Belas
-Itaíba,51.8,Buíque
-Itaíba,24.7,Manari
-Itambé,24.6,Goiana
-Itambé,24.3,Condado
-Itambé,39.3,Aliança
-Itambé,22.8,Camutanga
-Itambé,25.4,Ferreiros
-Itapetim,19,São José do Egito
+Itaiba,25.8,Tupanatinga
+Itaiba,39.1,Aguas Belas
+Itaiba,51.8,Buique
+Itaiba,24.7,Manari
+Itambe,24.6,Goiana
+Itambe,24.3,Condado
+Itambe,39.3,Alianca
+Itambe,22.8,Camutanga
+Itambe,25.4,Ferreiros
+Itapetim,19,Sao Jose do Egito
 Itapetim,15.6,Brejinho
 Itapissuma,36.8,Goiana
 Itapissuma,10.6,Igarassu
 Itaquitinga,15.2,Condado
 Itaquitinga,64,Igarassu
 Itaquitinga,25.7,Goiana
-Itaquitinga,25.9,Tracunhaém
-Itaquitinga,22.5,Araçoiaba
-Jaboatão dos Guararapes,16.6,Recife
-Jaboatão dos Guararapes,22.6,Cabo de Santo Agostinho
-Jaboatão dos Guararapes,38.5,Moreno
-Jaboatão dos Guararapes,36.7,São Lourenço da Mata
+Itaquitinga,25.9,Tracunhaem
+Itaquitinga,22.5,Aracoiaba
+Jaboatao dos Guararapes,16.6,Recife
+Jaboatao dos Guararapes,22.6,Cabo de Santo Agostinho
+Jaboatao dos Guararapes,38.5,Moreno
+Jaboatao dos Guararapes,36.7,Sao Lourenco da Mata
 Jaqueira,46.4,Lagoa dos Gatos
 Jaqueira,14.7,Catende
-Jaqueira,31.9,Belém de Maria
+Jaqueira,31.9,Belem de Maria
 Jaqueira,8.3,Maraial
-Jaqueira,27.8,São Benedito do Sul
-Jataúba,60.9,Belo Jardim
-Jataúba,24.5,Brejo da Madre de Deus
-Jataúba,37.2,Santa Cruz do Capibaribe
-Jataúba,38.8,Poção
-Jatobá,26.2,Petrolândia
-Jatobá,12,Tacaratu
-João Alfredo,12.8,Bom Jardim
-João Alfredo,32.3,Limoeiro
-João Alfredo,12.5,Salgadinho
-João Alfredo,35.8,Surubim
+Jaqueira,27.8,Sao Benedito do Sul
+Jatauba,60.9,Belo Jardim
+Jatauba,24.5,Brejo da Madre de Deus
+Jatauba,37.2,Santa Cruz do Capibaribe
+Jatauba,38.8,Pocao
+Jatoba,26.2,Petrolandia
+Jatoba,12,Tacaratu
+Joao Alfredo,12.8,Bom Jardim
+Joao Alfredo,32.3,Limoeiro
+Joao Alfredo,12.5,Salgadinho
+Joao Alfredo,35.8,Surubim
 Joaquim Nabuco,75.5,Bonito
-Joaquim Nabuco,58.5,Cortês
-Joaquim Nabuco,20.6,Água Preta
+Joaquim Nabuco,58.5,Cortes
+Joaquim Nabuco,20.6,Agua Preta
 Joaquim Nabuco,12.7,Palmares
-Joaquim Nabuco,31.3,Ribeirão
-Jucati,40.3,São Bento do Una
-Jucati,40.7,São João
+Joaquim Nabuco,31.3,Ribeirao
+Jucati,40.3,Sao Bento do Una
+Jucati,40.7,Sao Joao
 Jucati,32,Garanhuns
 Jucati,8.5,Jupi
 Jucati,18,Capoeiras
-Jupi,32.1,São Bento do Una
-Jupi,32.8,São João
+Jupi,32.1,Sao Bento do Una
+Jupi,32.8,Sao Joao
 Jupi,42.6,Angelim
-Jupi,12.4,Calçado
+Jupi,12.4,Calcado
 Jupi,8.5,Jucati
 Jupi,13.7,Lajedo
 Jurema,21.2,Panelas
 Jurema,39.3,Canhotinho
-Jurema,41.4,Quipapá
+Jurema,41.4,Quipapa
 Jurema,52.5,Ibirajuba
 Jurema,30.4,Lajedo
 Lagoa de Itaenga,17.1,Carpina
 Lagoa de Itaenga,23.8,Lagoa do Carro
-Lagoa de Itaenga,20.4,Glória do Goitá
+Lagoa de Itaenga,20.4,Gloria do Goita
 Lagoa de Itaenga,19.3,Paudalho
 Lagoa de Itaenga,13.7,Feira Nova
 Lagoa do Carro,7.2,Carpina
 Lagoa do Carro,24.1,Lagoa de Itaenga
 Lagoa do Carro,19.5,Limoeiro
 Lagoa do Ouro,34.6,Garanhuns
-Lagoa do Ouro,33.7,Brejão
+Lagoa do Ouro,33.7,Brejao
 Lagoa do Ouro,15.8,Correntes
 Lagoa do Ouro,30.8,Bom Conselho
 Lagoa dos Gatos,10.5,Cupira
-Lagoa dos Gatos,51.6,São Benedito do Sul
-Lagoa dos Gatos,14.5,Belém de Maria
+Lagoa dos Gatos,51.6,Sao Benedito do Sul
+Lagoa dos Gatos,14.5,Belem de Maria
 Lagoa dos Gatos,21.9,Panelas
 Lagoa dos Gatos,46.3,Jaqueira
 Lagoa Grande,55.8,Santa Maria da Boa Vista
 Lagoa Grande,53,Petrolina
 Lagoa Grande,121,Dormentes
 Lajedo,13.4,Jupi
-Lajedo,10.6,Calçado
+Lajedo,10.6,Calcado
 Lajedo,32.2,Canhotinho
 Lajedo,23,Ibirajuba
 Lajedo,29.1,Jurema
 Lajedo,21.8,Cachoeirinha
-Lajedo,20.5,São Bento do Una
-Limoeiro,50.6,Vicência
+Lajedo,20.5,Sao Bento do Una
+Limoeiro,50.6,Vicencia
 Limoeiro,4,Buenos Aires
 Limoeiro,29.4,Salgadinho
 Limoeiro,12,Feira Nova
 Limoeiro,25.5,Bom Jardim
-Limoeiro,32.2,João Alfredo
+Limoeiro,32.2,Joao Alfredo
 Limoeiro,26,Carpina
 Limoeiro,19.3,Lagoa do Carro
 Limoeiro,19.5,Passira
-Macaparana,34.1,Vicência
-Macaparana,21.4,Timbaúba
-Macaparana,6.8,São Vicente Ferrer
-Machados,19.2,São Vicente Ferrer
+Macaparana,34.1,Vicencia
+Macaparana,21.4,Timbauba
+Macaparana,6.8,Sao Vicente Ferrer
+Machados,19.2,Sao Vicente Ferrer
 Machados,34.1,Bom Jardim
-Machados,18.8,Orobó
-Machados,26.8,Vicência
+Machados,18.8,Orobo
+Machados,26.8,Vicencia
 Manari,63.1,Ibimirim
-Manari,24.6,Itaíba
-Manari,31.5,Inajá
+Manari,24.6,Itaiba
+Manari,31.5,Inaja
 Maraial,8.3,Jaqueira
 Maraial,21.3,Catende
-Maraial,45.9,Xexéu
-Maraial,29.7,São Benedito do Sul
-Mirandiba,41.9,São José do Belmonte
+Maraial,45.9,Xexeu
+Maraial,29.7,Sao Benedito do Sul
+Mirandiba,41.9,Sao Jose do Belmonte
 Mirandiba,25.9,Carnaubeira da Penha
 Mirandiba,62.6,Serra Talhada
 Mirandiba,52.2,Verdejante
 Mirandiba,62.3,Salgueiro
 Mirandiba,69.9,Floresta
-Moreilândia,50,Serrita
-Moreilândia,31,Exu
-Moreilândia,13.6,Granito
-Moreno,29,São Lourenço da Mata
+Moreilandia,50,Serrita
+Moreilandia,31,Exu
+Moreilandia,13.6,Granito
+Moreno,29,Sao Lourenco da Mata
 Moreno,50.6,Cabo de Santo Agostinho
-Moreno,34.5,Jaboatão dos Guararapes
-Moreno,23.5,Vitória de Santo Antão
-Nazaré da Mata,20.5,Aliança
-Nazaré da Mata,39,Condado
-Nazaré da Mata,27.1,Itaquitinga
-Nazaré da Mata,9.5,Tracunhaém
-Nazaré da Mata,13.8,Carpina
-Nazaré da Mata,4,Buenos Aires
+Moreno,34.5,Jaboatao dos Guararapes
+Moreno,23.5,Vitoria de Santo Antao
+Nazare da Mata,20.5,Alianca
+Nazare da Mata,39,Condado
+Nazare da Mata,27.1,Itaquitinga
+Nazare da Mata,9.5,Tracunhaem
+Nazare da Mata,13.8,Carpina
+Nazare da Mata,4,Buenos Aires
 Olinda,8.8,Paulista
 Olinda,11,Recife
-Orobó,7,Bom Jardim
-Orobó,37.9,São Vicente Ferrer
-Orobó,18.8,Machados
-Orobó,21.7,Casinhas
-Orocó,117,Parnamirim
-Orocó,39.3,Cabrobó
-Orocó,37.4,Santa Maria da Boa Vista
+Orobo,7,Bom Jardim
+Orobo,37.9,Sao Vicente Ferrer
+Orobo,18.8,Machados
+Orobo,21.7,Casinhas
+Oroco,117,Parnamirim
+Oroco,39.3,Cabrobo
+Oroco,37.4,Santa Maria da Boa Vista
 Ouricuri,60.7,Araripina
 Ouricuri,26.2,Trindade
 Ouricuri,33,Ipubi
 Ouricuri,92.6,Santa Filomena
-Ouricuri,20.5,Bodocó
+Ouricuri,20.5,Bodoco
 Ouricuri,61.4,Parnamirim
 Palmares,63.5,Bonito
 Palmares,13.6,Joaquim Nabuco
-Palmares,18.4,Xexéu
-Palmares,10,Água Preta
+Palmares,18.4,Xexeu
+Palmares,10,Agua Preta
 Palmares,20.5,Catende
-Palmeirina,27.6,São João
+Palmeirina,27.6,Sao Joao
 Palmeirina,16.6,Angelim
 Palmeirina,23.9,Correntes
 Palmeirina,30,Canhotinho
 Palmeirina,39.8,Garanhuns
 Panelas,44.1,Altinho
-Panelas,22.2,Quipapá
+Panelas,22.2,Quipapa
 Panelas,21.2,Jurema
 Panelas,21.9,Lagoa dos Gatos
 Panelas,14.5,Cupira
-Panelas,31.7,São Benedito do Sul
+Panelas,31.7,Sao Benedito do Sul
 Panelas,62.8,Ibirajuba
-Paranatama,37.1,Caetés
-Paranatama,15.4,Saloá
+Paranatama,37.1,Caetes
+Paranatama,15.4,Saloa
 Paranatama,22.7,Garanhuns
 Paranatama,89.1,Pedra
 Parnamirim,64.4,Granito
 Parnamirim,58.1,Serrita
-Parnamirim,80.1,Bodocó
+Parnamirim,80.1,Bodoco
 Parnamirim,127,Santa Maria da Boa Vista
-Parnamirim,97,Orocó
+Parnamirim,97,Oroco
 Parnamirim,36.2,Terra Nova
-Parnamirim,80.3,Cabrobó
+Parnamirim,80.3,Cabrobo
 Parnamirim,62,Ouricuri
 Passira,11,Salgadinho
 Passira,19,Limoeiro
-Passira,46.2,Gravatá
+Passira,46.2,Gravata
 Passira,76.3,Pombos
 Passira,48.2,Bezerros
 Passira,30.7,Feira Nova
-Passira,43.9,Glória do Goitá
+Passira,43.9,Gloria do Goita
 Passira,17.5,Cumaru
 Paudalho,28.3,Camaragibe
-Paudalho,22.6,São Lourenço da Mata
-Paudalho,25.7,Glória do Goitá
-Paudalho,17.6,Tracunhaém
+Paudalho,22.6,Sao Lourenco da Mata
+Paudalho,25.7,Gloria do Goita
+Paudalho,17.6,Tracunhaem
 Paudalho,59.3,Abreu e Lima
 Paudalho,66.1,Paulista
 Paudalho,19.2,Lagoa de Itaenga
 Paudalho,13.3,Carpina
-Paudalho,31.8,Araçoiaba
-Paudalho,14.9,Chã de Alegria
+Paudalho,31.8,Aracoiaba
+Paudalho,14.9,Cha de Alegria
 Paulista,15.3,Abreu e Lima
 Paulista,21.9,Igarassu
 Paulista,9,Olinda
@@ -776,280 +776,280 @@ Paulista,29.8,Camaragibe
 Paulista,64.3,Paudalho
 Pedra,19.1,Arcoverde
 Pedra,46.3,Pesqueira
-Pedra,99.3,Águas Belas
+Pedra,99.3,Aguas Belas
 Pedra,12.6,Venturosa
-Pedra,52.1,Caetés
+Pedra,52.1,Caetes
 Pedra,88.4,Paranatama
-Pedra,42.4,Buíque
-Pesqueira,27.3,Poção
+Pedra,42.4,Buique
+Pesqueira,27.3,Pocao
 Pesqueira,33.5,Venturosa
 Pesqueira,15.9,Alagoinha
-Pesqueira,16.9,Sanharó
+Pesqueira,16.9,Sanharo
 Pesqueira,73.8,Capoeiras
-Pesqueira,50.6,São Bento do Una
+Pesqueira,50.6,Sao Bento do Una
 Pesqueira,46.1,Pedra
 Pesqueira,42.6,Arcoverde
-Petrolândia,65.7,Floresta
-Petrolândia,26.2,Jatobá
-Petrolândia,23.7,Tacaratu
-Petrolina,119,Afrânio
+Petrolandia,65.7,Floresta
+Petrolandia,26.2,Jatoba
+Petrolandia,23.7,Tacaratu
+Petrolina,119,Afranio
 Petrolina,128,Dormentes
 Petrolina,52.9,Lagoa Grande
-Poção,27.4,Pesqueira
-Poção,38.7,Jataúba
+Pocao,27.4,Pesqueira
+Pocao,38.7,Jatauba
 Pombos,79.3,Passira
 Pombos,58.7,Primavera
-Pombos,14.5,Vitória de Santo Antão
-Pombos,21.6,Chã Grande
-Pombos,22.8,Gravatá
+Pombos,14.5,Vitoria de Santo Antao
+Pombos,21.6,Cha Grande
+Pombos,22.8,Gravata
 Primavera,16.7,Amaraji
 Primavera,24.1,Escada
-Primavera,37.4,Chã Grande
+Primavera,37.4,Cha Grande
 Primavera,58.1,Pombos
-Primavera,29.2,Ribeirão
-Primavera,69.5,Vitória de Santo Antão
-Quipapá,22.2,Panelas
-Quipapá,13.6,São Benedito do Sul
-Quipapá,41.4,Jurema
-Quipapá,27.4,Canhotinho
+Primavera,29.2,Ribeirao
+Primavera,69.5,Vitoria de Santo Antao
+Quipapa,22.2,Panelas
+Quipapa,13.6,Sao Benedito do Sul
+Quipapa,41.4,Jurema
+Quipapa,27.4,Canhotinho
 Quixaba,37.1,Flores
-Quixaba,14.5,Carnaíba
+Quixaba,14.5,Carnaiba
 Recife,17.6,Paulista
-Recife,19.1,Jaboatão dos Guararapes
+Recife,19.1,Jaboatao dos Guararapes
 Recife,9.2,Olinda
-Recife,30,São Lourenço da Mata
+Recife,30,Sao Lourenco da Mata
 Recife,16.7,Camaragibe
 Riacho das Almas,30.7,Bezerros
 Riacho das Almas,26,Frei Miguelinho
 Riacho das Almas,31.1,Caruaru
 Riacho das Almas,38.6,Surubim
-Ribeirão,40.8,Amaraji
-Ribeirão,28.6,Primavera
-Ribeirão,26.3,Escada
-Ribeirão,12.9,Gameleira
-Ribeirão,40.5,Sirinhaém
-Ribeirão,45.2,Água Preta
-Ribeirão,27.9,Cortês
-Rio Formoso,12.6,Sirinhaém
-Rio Formoso,19.4,Tamandaré
+Ribeirao,40.8,Amaraji
+Ribeirao,28.6,Primavera
+Ribeirao,26.3,Escada
+Ribeirao,12.9,Gameleira
+Ribeirao,40.5,Sirinhaem
+Ribeirao,45.2,Agua Preta
+Ribeirao,27.9,Cortes
+Rio Formoso,12.6,Sirinhaem
+Rio Formoso,19.4,Tamandare
 Rio Formoso,31.7,Gameleira
-Sairé,14.6,Bezerros
-Sairé,26.3,Bonito
-Sairé,14.2,Barra de Guabiraba
-Sairé,34.7,Gravatá
-Sairé,11.4,Camocim de São Félix
-Salgadinho,13.3,João Alfredo
+Saire,14.6,Bezerros
+Saire,26.3,Bonito
+Saire,14.2,Barra de Guabiraba
+Saire,34.7,Gravata
+Saire,11.4,Camocim de Sao Felix
+Salgadinho,13.3,Joao Alfredo
 Salgadinho,11,Passira
 Salgadinho,29.4,Limoeiro
 Salgadinho,46.1,Surubim
-Salgueiro,96.7,Belém de São Francisco
+Salgueiro,96.7,Belem de Sao Francisco
 Salgueiro,27.9,Verdejante
 Salgueiro,62.5,Mirandiba
 Salgueiro,88.1,Carnaubeira da Penha
-Salgueiro,67.3,Cabrobó
+Salgueiro,67.3,Cabrobo
 Salgueiro,42.5,Terra Nova
 Salgueiro,27.2,Serrita
 Salgueiro,51.8,Cedro
-Saloá,15.4,Paranatama
-Saloá,30.2,Iati
-Saloá,16.8,Terezinha
-Saloá,25.8,Bom Conselho
-Saloá,34,Garanhuns
-Sanharó,17.6,Belo Jardim
-Sanharó,17,Pesqueira
-Sanharó,34.7,São Bento do Una
+Saloa,15.4,Paranatama
+Saloa,30.2,Iati
+Saloa,16.8,Terezinha
+Saloa,25.8,Bom Conselho
+Saloa,34,Garanhuns
+Sanharo,17.6,Belo Jardim
+Sanharo,17,Pesqueira
+Sanharo,34.7,Sao Bento do Una
 Santa Cruz da Baixa Verde,20.6,Calumbi
 Santa Cruz da Baixa Verde,7,Triunfo
 Santa Cruz da Baixa Verde,27,Serra Talhada
-Santa Cruz do Capibaribe,36.7,Jataúba
+Santa Cruz do Capibaribe,36.7,Jatauba
 Santa Cruz do Capibaribe,59.4,Brejo da Madre de Deus
 Santa Cruz do Capibaribe,26.2,Taquaritinga do Norte
 Santa Filomena,92.5,Ouricuri
 Santa Filomena,38.4,Dormentes
 Santa Maria da Boa Vista,55.8,Lagoa Grande
 Santa Maria da Boa Vista,127,Parnamirim
-Santa Maria da Boa Vista,37.1,Orocó
-Santa Maria do Cambucá,17.1,Frei Miguelinho
-Santa Maria do Cambucá,8.9,Vertente do Lério
-Santa Maria do Cambucá,4.1,Surubim
-Santa Maria do Cambucá,17.9,Vertentes
+Santa Maria da Boa Vista,37.1,Oroco
+Santa Maria do Cambuca,17.1,Frei Miguelinho
+Santa Maria do Cambuca,8.9,Vertente do Lerio
+Santa Maria do Cambuca,4.1,Surubim
+Santa Maria do Cambuca,17.9,Vertentes
 Santa Terezinha,43.9,Tabira
-Santa Terezinha,38.2,São José do Egito
+Santa Terezinha,38.2,Sao Jose do Egito
 Santa Terezinha,27.2,Brejinho
-São Benedito do Sul,51.6,Lagoa dos Gatos
-São Benedito do Sul,29.6,Maraial
-São Benedito do Sul,27.8,Jaqueira
-São Benedito do Sul,13.7,Quipapá
-São Benedito do Sul,31.7,Panelas
-São Bento do Una,25.1,Belo Jardim
-São Bento do Una,41.4,Tacaimbó
-São Bento do Una,32.3,Jupi
-São Bento do Una,21.2,Lajedo
-São Bento do Una,40.5,Jucati
-São Bento do Una,42.1,Cachoeirinha
-São Bento do Una,34.4,Sanharó
-São Bento do Una,50.5,Pesqueira
-São Bento do Una,33.3,Capoeiras
-São Caetano,19.8,Caruaru
-São Caetano,18.9,Tacaimbó
-São Caetano,48.8,Altinho
-São Caetano,22.7,Cachoeirinha
-São Caetano,67.5,Brejo da Madre de Deus
-São João,32.6,Jupi
-São João,40.6,Jucati
-São João,27.5,Palmeirina
-São João,11,Angelim
-São João,16.2,Garanhuns
-São Joaquim do Monte,10.4,Camocim de São Félix
-São Joaquim do Monte,28.8,Bezerros
-São Joaquim do Monte,43.2,Cupira
-São Joaquim do Monte,24.8,Bonito
-São Joaquim do Monte,29.2,Belém de Maria
-São Joaquim do Monte,26.5,Agrestina
-São José da Coroa Grande,12.2,Barreiros
-São José do Belmonte,60.3,Serra Talhada
-São José do Belmonte,35.4,Verdejante
-São José do Belmonte,41.6,Mirandiba
-São José do Egito,15.2,Brejinho
-São José do Egito,19,Itapetim
-São José do Egito,18.4,Tuparetama
-São José do Egito,43.1,Ingazeira
-São José do Egito,38,Santa Terezinha
-São José do Egito,34.9,Tabira
-São Lourenço da Mata,19.3,Paudalho
-São Lourenço da Mata,8.2,Camaragibe
-São Lourenço da Mata,29.6,Chã de Alegria
-São Lourenço da Mata,34.1,Jaboatão dos Guararapes
-São Lourenço da Mata,29.3,Moreno
-São Lourenço da Mata,30.9,Recife
-São Lourenço da Mata,49.9,Vitória de Santo Antão
-São Vicente Ferrer,7,Macaparana
-São Vicente Ferrer,19.3,Machados
-São Vicente Ferrer,27.4,Vicência
-São Vicente Ferrer,38,Orobó
-Serra Talhada,60.6,São José do Belmonte
+Sao Benedito do Sul,51.6,Lagoa dos Gatos
+Sao Benedito do Sul,29.6,Maraial
+Sao Benedito do Sul,27.8,Jaqueira
+Sao Benedito do Sul,13.7,Quipapa
+Sao Benedito do Sul,31.7,Panelas
+Sao Bento do Una,25.1,Belo Jardim
+Sao Bento do Una,41.4,Tacaimbo
+Sao Bento do Una,32.3,Jupi
+Sao Bento do Una,21.2,Lajedo
+Sao Bento do Una,40.5,Jucati
+Sao Bento do Una,42.1,Cachoeirinha
+Sao Bento do Una,34.4,Sanharo
+Sao Bento do Una,50.5,Pesqueira
+Sao Bento do Una,33.3,Capoeiras
+Sao Caetano,19.8,Caruaru
+Sao Caetano,18.9,Tacaimbo
+Sao Caetano,48.8,Altinho
+Sao Caetano,22.7,Cachoeirinha
+Sao Caetano,67.5,Brejo da Madre de Deus
+Sao Joao,32.6,Jupi
+Sao Joao,40.6,Jucati
+Sao Joao,27.5,Palmeirina
+Sao Joao,11,Angelim
+Sao Joao,16.2,Garanhuns
+Sao Joaquim do Monte,10.4,Camocim de Sao Felix
+Sao Joaquim do Monte,28.8,Bezerros
+Sao Joaquim do Monte,43.2,Cupira
+Sao Joaquim do Monte,24.8,Bonito
+Sao Joaquim do Monte,29.2,Belem de Maria
+Sao Joaquim do Monte,26.5,Agrestina
+Sao Jose da Coroa Grande,12.2,Barreiros
+Sao Jose do Belmonte,60.3,Serra Talhada
+Sao Jose do Belmonte,35.4,Verdejante
+Sao Jose do Belmonte,41.6,Mirandiba
+Sao Jose do Egito,15.2,Brejinho
+Sao Jose do Egito,19,Itapetim
+Sao Jose do Egito,18.4,Tuparetama
+Sao Jose do Egito,43.1,Ingazeira
+Sao Jose do Egito,38,Santa Terezinha
+Sao Jose do Egito,34.9,Tabira
+Sao Lourenco da Mata,19.3,Paudalho
+Sao Lourenco da Mata,8.2,Camaragibe
+Sao Lourenco da Mata,29.6,Cha de Alegria
+Sao Lourenco da Mata,34.1,Jaboatao dos Guararapes
+Sao Lourenco da Mata,29.3,Moreno
+Sao Lourenco da Mata,30.9,Recife
+Sao Lourenco da Mata,49.9,Vitoria de Santo Antao
+Sao Vicente Ferrer,7,Macaparana
+Sao Vicente Ferrer,19.3,Machados
+Sao Vicente Ferrer,27.4,Vicencia
+Sao Vicente Ferrer,38,Orobo
+Serra Talhada,60.6,Sao Jose do Belmonte
 Serra Talhada,62.7,Mirandiba
 Serra Talhada,88.2,Carnaubeira da Penha
 Serra Talhada,96.3,Floresta
 Serra Talhada,26.3,Santa Cruz da Baixa Verde
 Serra Talhada,17.2,Calumbi
-Serra Talhada,86.9,Betânia
+Serra Talhada,86.9,Betania
 Serrita,27.6,Salgueiro
 Serrita,31.5,Cedro
 Serrita,49.2,Granito
 Serrita,58.1,Parnamirim
 Serrita,48.7,Terra Nova
-Serrita,50,Moreilândia
-Sertânia,46.5,Iguaracy
-Sertânia,85.4,Ibimirim
-Sertânia,110,Tupanatinga
-Sertânia,83.5,Buíque
-Sertânia,58.6,Arcoverde
-Sertânia,42.8,Custódia
-Sirinhaém,27.6,Ipojuca
-Sirinhaém,53.7,Escada
-Sirinhaém,12.9,Rio Formoso
-Sirinhaém,31.3,Tamandaré
-Sirinhaém,40.6,Ribeirão
-Solidão,31.4,Afogados da Ingazeira
-Solidão,49.3,Carnaíba
-Solidão,16.3,Tabira
-Surubim,13,Vertente do Lério
+Serrita,50,Moreilandia
+Sertania,46.5,Iguaracy
+Sertania,85.4,Ibimirim
+Sertania,110,Tupanatinga
+Sertania,83.5,Buique
+Sertania,58.6,Arcoverde
+Sertania,42.8,Custodia
+Sirinhaem,27.6,Ipojuca
+Sirinhaem,53.7,Escada
+Sirinhaem,12.9,Rio Formoso
+Sirinhaem,31.3,Tamandare
+Sirinhaem,40.6,Ribeirao
+Solidao,31.4,Afogados da Ingazeira
+Solidao,49.3,Carnaiba
+Solidao,16.3,Tabira
+Surubim,13,Vertente do Lerio
 Surubim,27.1,Casinhas
 Surubim,38.8,Riacho das Almas
 Surubim,72.5,Cumaru
 Surubim,45.9,Salgadinho
-Surubim,35.7,João Alfredo
+Surubim,35.7,Joao Alfredo
 Surubim,43.2,Bom Jardim
-Surubim,4.2,Santa Maria do Cambucá
+Surubim,4.2,Santa Maria do Cambuca
 Surubim,13,Frei Miguelinho
 Tabira,17.1,Ingazeira
 Tabira,41.9,Iguaracy
 Tabira,43.8,Santa Terezinha
-Tabira,35,São José do Egito
+Tabira,35,Sao Jose do Egito
 Tabira,22.9,Afogados da Ingazeira
-Tacaimbó,20.1,Belo Jardim
-Tacaimbó,19.1,São Caetano
-Tacaimbó,38.5,Cachoeirinha
+Tacaimbo,20.1,Belo Jardim
+Tacaimbo,19.1,Sao Caetano
+Tacaimbo,38.5,Cachoeirinha
 Tacaratu,89.1,Floresta
-Tacaratu,50.8,Inajá
-Tacaratu,23.7,Petrolândia
-Tacaratu,12,Jatobá
-Tamandaré,19.5,Rio Formoso
-Tamandaré,31,Sirinhaém
-Tamandaré,20.7,Barreiros
-Tamandaré,58.1,Água Preta
+Tacaratu,50.8,Inaja
+Tacaratu,23.7,Petrolandia
+Tacaratu,12,Jatoba
+Tamandare,19.5,Rio Formoso
+Tamandare,31,Sirinhaem
+Tamandare,20.7,Barreiros
+Tamandare,58.1,Agua Preta
 Taquaritinga do Norte,80.9,Brejo da Madre de Deus
 Taquaritinga do Norte,64.6,Caruaru
 Taquaritinga do Norte,24.6,Toritama
 Taquaritinga do Norte,10.5,Vertentes
 Taquaritinga do Norte,25.8,Santa Cruz do Capibaribe
 Terezinha,28.9,Garanhuns
-Terezinha,16.8,Saloá
-Terezinha,8.8,Brejão
+Terezinha,16.8,Saloa
+Terezinha,8.8,Brejao
 Terezinha,17.5,Bom Conselho
-Terra Nova,44.1,Cabrobó
+Terra Nova,44.1,Cabrobo
 Terra Nova,36.9,Parnamirim
 Terra Nova,48.9,Serrita
 Terra Nova,42.9,Salgueiro
-Timbaúba,31.7,Vicência
-Timbaúba,11.6,Ferreiros
-Timbaúba,16.9,Aliança
-Timbaúba,16.8,Camutanga
-Timbaúba,21.4,Macaparana
+Timbauba,31.7,Vicencia
+Timbauba,11.6,Ferreiros
+Timbauba,16.9,Alianca
+Timbauba,16.8,Camutanga
+Timbauba,21.4,Macaparana
 Toritama,39.9,Caruaru
 Toritama,15.1,Vertentes
 Toritama,24.8,Taquaritinga do Norte
-Tracunhaém,9.4,Nazaré da Mata
-Tracunhaém,16.8,Paudalho
-Tracunhaém,25.8,Itaquitinga
-Tracunhaém,26.4,Araçoiaba
-Tracunhaém,6.1,Carpina
-Tracunhaém,58.2,Igarassu
+Tracunhaem,9.4,Nazare da Mata
+Tracunhaem,16.8,Paudalho
+Tracunhaem,25.8,Itaquitinga
+Tracunhaem,26.4,Aracoiaba
+Tracunhaem,6.1,Carpina
+Tracunhaem,58.2,Igarassu
 Trindade,34.7,Araripina
 Trindade,26.3,Ouricuri
 Trindade,19.5,Ipubi
 Triunfo,19.6,Flores
 Triunfo,24.1,Calumbi
 Triunfo,7,Santa Cruz da Baixa Verde
-Tupanatinga,110,Sertânia
-Tupanatinga,25.8,Itaíba
-Tupanatinga,26.4,Buíque
+Tupanatinga,110,Sertania
+Tupanatinga,25.8,Itaiba
+Tupanatinga,26.4,Buique
 Tupanatinga,64.7,Ibimirim
-Tuparetama,18.5,São José do Egito
+Tuparetama,18.5,Sao Jose do Egito
 Tuparetama,43.7,Iguaracy
 Tuparetama,24.7,Ingazeira
 Venturosa,12.6,Pedra
 Venturosa,17.6,Alagoinha
 Venturosa,33.7,Pesqueira
-Venturosa,39.5,Caetés
+Venturosa,39.5,Caetes
 Verdejante,27.5,Salgueiro
-Verdejante,34.8,São José do Belmonte
+Verdejante,34.8,Sao Jose do Belmonte
 Verdejante,52.1,Mirandiba
-Vertente do Lério,23.2,Surubim
-Vertente do Lério,14.1,Santa Maria do Cambucá
-Vertente do Lério,18.7,Casinhas
+Vertente do Lerio,23.2,Surubim
+Vertente do Lerio,14.1,Santa Maria do Cambuca
+Vertente do Lerio,18.7,Casinhas
 Vertentes,55.1,Caruaru
 Vertentes,15.2,Toritama
-Vertentes,18.1,Santa Maria do Cambucá
+Vertentes,18.1,Santa Maria do Cambuca
 Vertentes,15.7,Frei Miguelinho
 Vertentes,10.8,Taquaritinga do Norte
-Vicência,31.6,Timbaúba
-Vicência,34.1,Macaparana
-Vicência,50.8,Limoeiro
-Vicência,4,Buenos Aires
-Vicência,17.6,Aliança
-Vicência,27.3,São Vicente Ferrer
-Vicência,26.9,Machados
-Vicência,52.1,Bom Jardim
-Vitória de Santo Antão,21.5,Glória do Goitá
-Vitória de Santo Antão,28.1,Chã de Alegria
-Vitória de Santo Antão,35.5,Escada
-Vitória de Santo Antão,60.4,Primavera
-Vitória de Santo Antão,72,Cabo de Santo Agostinho
-Vitória de Santo Antão,23.2,Moreno
-Vitória de Santo Antão,50.4,São Lourenço da Mata
-Vitória de Santo Antão,11.7,Pombos
-Xexéu,19.2,Palmares
-Xexéu,26.7,Água Preta
-Xexéu,48,Maraial
+Vicencia,31.6,Timbauba
+Vicencia,34.1,Macaparana
+Vicencia,50.8,Limoeiro
+Vicencia,4,Buenos Aires
+Vicencia,17.6,Alianca
+Vicencia,27.3,Sao Vicente Ferrer
+Vicencia,26.9,Machados
+Vicencia,52.1,Bom Jardim
+Vitoria de Santo Antao,21.5,Gloria do Goita
+Vitoria de Santo Antao,28.1,Cha de Alegria
+Vitoria de Santo Antao,35.5,Escada
+Vitoria de Santo Antao,60.4,Primavera
+Vitoria de Santo Antao,72,Cabo de Santo Agostinho
+Vitoria de Santo Antao,23.2,Moreno
+Vitoria de Santo Antao,50.4,Sao Lourenco da Mata
+Vitoria de Santo Antao,11.7,Pombos
+Xexeu,19.2,Palmares
+Xexeu,26.7,Agua Preta
+Xexeu,48,Maraial
